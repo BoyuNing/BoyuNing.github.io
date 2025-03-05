@@ -1,4 +1,4 @@
-## **About Me**
+# **About Me**
 
 I work at HUAWEI <img src='./images/huawei.png' style='width: 1.5em;'> as a research principle engineer now in RAN Research Department II. 
 
@@ -19,7 +19,7 @@ In addition to my technical responsibilities, I also serve as the **project lead
 
 I actively keep pace with the latest advancements in academic research, particularly in areas such as **terahertz communications**, **ultra-massive MIMO**, **movable antenna systems**, **intelligent reflecting surfaces (IRS)**, and **integrated sensing and communication (ISAC)**. If you are seeking any form of **academic cooperation**, please feel free to email me at [boydning@outlook.com](mailto:boydning@outlook.com). 
 
-### **Personal Experience**
+## **Personal Experience**
 
 I graduated from [Yingcai Honors College (英才实验学院)](https://www.yingcai.uestc.edu.cn/), University of Electronic and Technology of China (UESTC, [电子科技大学](https://www.uestc.edu.cn/)), with a Bachelor's degree in 2018 and from the [National Key Laboratory of Wireless Communications (通信抗干扰全国重点实验室)](https://www.ncl.uestc.edu.cn/), UESTC, with a Ph.D, supervised by [Zhi Chen (陈智)](https://scholar.google.com.hk/citations?hl=en&user=wnGtLtsAAAAJ). From 2022 to 2023, I was a Visiting Student with the [Department of Electrical and Computer Engineering](https://cde.nus.edu.sg/ece/), [National University of Singapore](https://www.nus.edu.sg/), supervised by [Rui Zhang (张瑞)](https://scholar.google.com.hk/citations?hl=en&user=yoJqPIkAAAAJ).
 
