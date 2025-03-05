@@ -1,6 +1,27 @@
-I work at TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a research scientist now in Singapore. 
+I work at HUAWEI <img src='./images/huawei.png' style='width: 6em;'> as a research principle engineer now in RAN Research Department II. 
 
-I am now working on audio-driven talking face generation, text-to-speech and music generation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [ren.yi@bytedance.com](mailto:ren.yi@bytedance.com). We are hiring interns!
+### **Technical Focus**
+
+My work is primarily focused on the standardization for **3GPP Release 20/21 physical layer MIMO air interface technologies**, which mainly include the evolution of the following key components:
+
+- **Demodulation Reference Signals (DMRS)**
+- **Sounding Reference Signals (SRS)**
+- **Channel State Information Reference Signals (CSI-RS)**
+- **Codebook framework design**
+- **PMI (Precoding Matrix Indicator) feedback mechanisms**
+
+### **Project Management in Emerging Areas**
+
+In addition to my technical responsibilities, I also serve as the **project Member** for exploratory projects in the following emerging areas:
+
+- **AI network integration for uplink and downlink channels**
+- **Movable antenna architecture technologies**
+- **Ultra-massive MIMO full-connected hybrid beamforming technologies**
+- **Channel Graph-Assisted Communication Technology**
+
+I actively keep pace with the latest advancements in academic research, particularly in areas such as **terahertz communications**, **ultra-massive MIMO**, **movable antenna arrays**, **intelligent reflecting surfaces (IRS)**, and **integrated sensing and communication (ISAC)**. If you are seeking any form of **academic cooperation**, please feel free to email me at [boydning@outlook.com](mailto:boydning@outlook.com). 
+
+
 
 I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院) with a bachelor's degree and from the Department of Computer Science and Technology, Zhejiang University (浙江大学计算机科学与技术学院) with a master's degree, advised by [Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou). I also collaborate with [Xu Tan (谭旭)](https://www.microsoft.com/en-us/research/people/xuta/), [Tao Qin (秦涛)](https://www.microsoft.com/en-us/research/people/taoqin/) and [Tie-yan Liu (刘铁岩)](https://www.microsoft.com/en-us/research/people/tyliu/) from [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> closely. 
 
