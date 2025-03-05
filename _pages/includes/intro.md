@@ -1,4 +1,4 @@
-# **About Me** <img src="0726B485.png" width="20"/>
+# **About Me** 
 
 I am currently working at Huawei <img src='./images/huawei.png' style='width: 1.5em;'> as a research **Principle Engineer** in RAN Research Department II. 
 
