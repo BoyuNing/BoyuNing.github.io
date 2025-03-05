@@ -1,4 +1,4 @@
-# **<p style="color: darkred;">About Me</p> ** 
+<p style="color: darkred; font-weight: bold;">About Me</p>
 
 I am currently working at Huawei <img src='./images/huawei.png' style='width: 1.5em;'> as a research **Principle Engineer** in RAN Research Department II. 
 
