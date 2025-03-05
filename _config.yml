@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Boyu Ning (宁博宇)"
-description              : "My research focuses on wireless communications, including 5G/6G physical layer protocols, MIMO, OFDM, terahertz communications, wireless sensing/localization, HBF/IRS/DMA/MA, resource scheduling, channel estimation, beam management, codebook design, and digital pre-distortion, and I am skilled in signal processing, matrix theory, probability theory, Bayesian estimation, compressed sensing, deep learning, and tensor analysis."
+description              : "My research focuses on wireless communications, including 5G/6G physical layer protocols, MIMO, OFDM, terahertz communications, wireless sensing/localization, resource scheduling, channel estimation, beam management, codebook design, and digital pre-distortion, and I am skilled in signal processing, matrix theory, probability theory, Bayesian estimation, compressed sensing, deep learning, and tensor analysis."
 repository               : "BoyuNing/BoyuNing.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,14 +22,14 @@ baidu_site_verification  : code-ZxFK3f4pfb
 # Site Author
 author:
   name             : "Boyu Ning (宁博宇)"
-  avatar           : "images/ry_profile.jpeg"
-  bio              : "TikTok"
-  location         : "Singapore"
+  avatar           : "images/profile.png"
+  bio              : "Huawei Technologies Co., Ltd."
+  location         : "China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=ftQU5UcAAAAJ&hl=en&oi=ao"
+  email            : "boydning@outlook.com"
+  researchgate     : "https://www.researchgate.net/profile/Boyu-Ning?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : # ""
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : # "BoyuNing"
+  dblp             : # "https://dblp.org/pid/75/6568-6.html"
+  orcid            : "https://orcid.org/0000-0003-2864-373X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
