@@ -1,4 +1,4 @@
-<p style="color: darkred; font-weight: bold;">About Me</p>
+<h1 style="color: darkred;">About Me</h1>
 
 I am currently working at Huawei <img src='./images/huawei.png' style='width: 1.5em;'> as a research **Principle Engineer** in RAN Research Department II. 
 
@@ -19,7 +19,7 @@ In addition to my technical responsibilities, I also serve as the **technical le
 
 I actively keep pace with the latest advancements in academic research, particularly in areas such as **terahertz communications**, **ultra-massive MIMO**, **movable antenna systems**, **intelligent reflecting surfaces (IRS)**, and **integrated sensing and communication (ISAC)**. If you are seeking any form of **academic cooperation**, please feel free to email me at [boydning@outlook.com](mailto:boydning@outlook.com). 
 
-## **Personal Experience**
+<h2 style="color: darkred;">Personal Experience</h2>
 
 I graduated from Yingcai Honors College (英才实验学院), University of Electronic and Technology of China (UESTC, 电子科技大学), with a **Bachelor's degree** in 2018 and from the National Key Laboratory of Wireless Communications (通信抗干扰全国重点实验室), UESTC, with a **Ph.D**, supervised by [Zhi Chen (陈智)](https://scholar.google.com.hk/citations?hl=en&user=wnGtLtsAAAAJ). From 2022 to 2023, I was a Visiting Scholar with the Department of Electrical and Computer Engineering (电气与计算机工程系), National University of Singapore (新加坡国立大学), supervised by [Rui Zhang (张瑞)](https://scholar.google.com.hk/citations?hl=en&user=yoJqPIkAAAAJ). From 2023 to now,  I was a research **Principe Engineer** with the Huawei RAN Research Department II (无线网络系统技术研究二部), Chengdu, China.
 
