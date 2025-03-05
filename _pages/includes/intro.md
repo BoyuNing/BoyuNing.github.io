@@ -1,6 +1,6 @@
-I work at HUAWEI <img src='./images/huawei.png' style='width: 1.5em;'> as a research principle engineer now in RAN Research Department II. 
+## **About Me**
 
-### **Technical Focus**
+I work at HUAWEI <img src='./images/huawei.png' style='width: 1.5em;'> as a research principle engineer now in RAN Research Department II. 
 
 My work is primarily focused on the standardization for **3GPP Release 20/21 physical layer MIMO air interface technologies**, which mainly include the evolution of the following key components:
 
@@ -10,8 +10,6 @@ My work is primarily focused on the standardization for **3GPP Release 20/21 phy
 - **Codebook framework design**
 - **PMI (Precoding Matrix Indicator) feedback mechanisms**
 
-### **Project Management in Emerging Areas**
-
 In addition to my technical responsibilities, I also serve as the **project leader** for exploratory projects in the following emerging areas:
 
 - **AI network integration for uplink and downlink channels**
@@ -20,6 +18,8 @@ In addition to my technical responsibilities, I also serve as the **project lead
 - **Channel Graph-Assisted Communication Technology**
 
 I actively keep pace with the latest advancements in academic research, particularly in areas such as **terahertz communications**, **ultra-massive MIMO**, **movable antenna systems**, **intelligent reflecting surfaces (IRS)**, and **integrated sensing and communication (ISAC)**. If you are seeking any form of **academic cooperation**, please feel free to email me at [boydning@outlook.com](mailto:boydning@outlook.com). 
+
+### **Personal Experience**
 
 I graduated from [Yingcai Honors College (英才实验学院)](https://www.yingcai.uestc.edu.cn/), University of Electronic and Technology of China (UESTC, [电子科技大学](https://www.uestc.edu.cn/)), with a Bachelor's degree in 2018 and from the [National Key Laboratory of Wireless Communications (通信抗干扰全国重点实验室)](https://www.ncl.uestc.edu.cn/), UESTC, with a Ph.D, supervised by [Zhi Chen (陈智)](https://scholar.google.com.hk/citations?hl=en&user=wnGtLtsAAAAJ). From 2022 to 2023, I was a Visiting Student with the [Department of Electrical and Computer Engineering](https://cde.nus.edu.sg/ece/), [National University of Singapore](https://www.nus.edu.sg/), supervised by [Rui Zhang (张瑞)](https://scholar.google.com.hk/citations?hl=en&user=yoJqPIkAAAAJ).
 
