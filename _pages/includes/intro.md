@@ -1,5 +1,4 @@
-# **About Me ![0726B485](https://github.com/user-attachments/assets/53abccec-a297-4f86-acbc-7a4e252a5701)
-**
+# **About Me** <img src="0726B485.png" width="20"/>
 
 I am currently working at Huawei <img src='./images/huawei.png' style='width: 1.5em;'> as a research **Principle Engineer** in RAN Research Department II. 
 
