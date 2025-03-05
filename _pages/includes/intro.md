@@ -1,6 +1,6 @@
 # **About Me**
 
-I work at HUAWEI <img src='./images/huawei.png' style='width: 1.5em;'> as a research principle engineer now in RAN Research Department II. 
+I am currently working at Huawei <img src='./images/huawei.png' style='width: 1.5em;'> as a research **Principle Engineer** in RAN Research Department II. 
 
 My work is primarily focused on the standardization for **3GPP Release 20/21 physical layer MIMO air interface technologies**, which mainly include the evolution of the following key components:
 
@@ -10,7 +10,7 @@ My work is primarily focused on the standardization for **3GPP Release 20/21 phy
 - Codebook Framework Design
 - PMI (Precoding Matrix Indicator) Feedback Mechanisms
 
-In addition to my technical responsibilities, I also serve as the **project leader** for exploratory projects in the following emerging areas:
+In addition to my technical responsibilities, I also serve as the **technical leader** for exploratory projects in the following emerging areas:
 
 - AI-assisted Integration for Uplink and Downlink Channels
 - Movable-Antenna Architecture Technologies
@@ -21,7 +21,7 @@ I actively keep pace with the latest advancements in academic research, particul
 
 ## **Personal Experience**
 
-I graduated from [Yingcai Honors College (英才实验学院)](https://www.yingcai.uestc.edu.cn/), University of Electronic and Technology of China (UESTC, [电子科技大学](https://www.uestc.edu.cn/)), with a **Bachelor's degree** in 2018 and from the [National Key Laboratory of Wireless Communications (通信抗干扰全国重点实验室)](https://www.ncl.uestc.edu.cn/), UESTC, with a Ph.D, supervised by [Zhi Chen (陈智)](https://scholar.google.com.hk/citations?hl=en&user=wnGtLtsAAAAJ). From 2022 to 2023, I was a Visiting Scholar with the [Department of Electrical and Computer Engineering](https://cde.nus.edu.sg/ece/), [National University of Singapore](https://www.nus.edu.sg/), supervised by [Rui Zhang (张瑞)](https://scholar.google.com.hk/citations?hl=en&user=yoJqPIkAAAAJ). From 2023 to now,  I was a research Principe Engineer with the
+I graduated from [Yingcai Honors College (英才实验学院)](https://www.yingcai.uestc.edu.cn/), University of Electronic and Technology of China (UESTC, [电子科技大学](https://www.uestc.edu.cn/)), with a **Bachelor's degree** in 2018 and from the [National Key Laboratory of Wireless Communications (通信抗干扰全国重点实验室)](https://www.ncl.uestc.edu.cn/), UESTC, with a **Ph.D**, supervised by [Zhi Chen (陈智)](https://scholar.google.com.hk/citations?hl=en&user=wnGtLtsAAAAJ). From 2022 to 2023, I was a Visiting Scholar with the [Department of Electrical and Computer Engineering](https://cde.nus.edu.sg/ece/), [National University of Singapore](https://www.nus.edu.sg/), supervised by [Rui Zhang (张瑞)](https://scholar.google.com.hk/citations?hl=en&user=yoJqPIkAAAAJ). From 2023 to now,  I was a research **Principe Engineer** with the Huawei RAN Research Department II, Chengdu, China.
 
 Over the research period, I have made significant contributions to [IEEE ComSoc](https://www.comsoc.org/), with over 50 top-tier [IEEE journal and conference papers published](https://ieeexplore.ieee.org/author/37086638264) (including 20+ as the first author). These publications span prestigious journals such as **IEEE JSAC**, **IEEE WCM**, **IEEE TWC**, **IEEE TCOM**, **IEEE IoT**, **IEEE TVT**, **IEEE WCL**, and **IEEE CL**, as well as renowned conferences like **IEEE GLOBECOM**, **IEEE ICC**, **IEEE ICASSP**, and **IEEE WNCN**. Additionally, I have secured over 10 national patents and co-authored 1 book. My expertise has been internationally recognized with **2 ESI highly cited paper**, **1 IEEE featured journal article**, and **8 IEEE popular papers**. 
 
