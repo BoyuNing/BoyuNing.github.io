@@ -10,7 +10,7 @@ My work is primarily focused on the standardization for **3GPP Release 20/21 phy
 - Codebook Framework Design
 - PMI (Precoding Matrix Indicator) Feedback Mechanisms
 
-In addition to my technical responsibilities, I also serve as the **technical leader** for exploratory projects in the following emerging areas:
+In addition to my technical responsibilities, I also serve as the **Technical Leader** for exploratory projects in the following emerging areas:
 
 - AI-assisted Integration for Uplink and Downlink Channels
 - Movable-Antenna Architecture Technologies
