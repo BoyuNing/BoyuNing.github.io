@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Boyu Ning (宁博宇)"
+title                    : "Boyu Ning's Website"
 description              : "My research focuses on wireless communications, including 5G/6G physical layer protocols, MIMO, OFDM, terahertz communications, wireless sensing/localization, resource scheduling, channel estimation, beam management, codebook design, and digital pre-distortion, and I am skilled in signal processing, matrix theory, probability theory, Bayesian estimation, compressed sensing, deep learning, and tensor analysis."
 repository               : "BoyuNing/BoyuNing.github.io"
 google_scholar_stats_use_cdn : true
