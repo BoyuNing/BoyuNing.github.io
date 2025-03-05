@@ -1,4 +1,4 @@
-I work at HUAWEI <img src='./images/huawei.png' style='width: 6em;'> as a research principle engineer now in RAN Research Department II. 
+I work at HUAWEI <img src='./images/huawei.png' style='width: 3em;'> as a research principle engineer now in RAN Research Department II. 
 
 ### **Technical Focus**
 
