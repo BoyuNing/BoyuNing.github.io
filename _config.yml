@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Boyu Ning's Website"
-description              : "My research focuses on wireless communications, including 5G/6G protocols, MIMO, OFDM, terahertz communications, wireless sensing/localization, resource scheduling, channel estimation, beam management, codebook design, and digital pre-distortion, and I am skilled in signal processing, matrix theory, Bayesian estimation, compressed sensing, deep learning and tensor analysis."
+description              : "My research focuses on wireless communications, including 5G/6G protocols, MIMO, OFDM, terahertz communications, wireless sensing/localization, resource scheduling, channel estimation, beam management, codebook design, and digital pre-distortion, and I am skilled in signal processing, matrix theory, deep learning, Bayesian estimation, compressed sensing, and tensor analysis."
 repository               : "BoyuNing/BoyuNing.github.io"
 google_scholar_stats_use_cdn : true
 
