@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
-description              : "Research scientist in TikTok, Data-Speech Dept. Focusing on speech, NLP and music."
-repository               : "rayeren/rayeren.github.io"
+title                    : "Boyu Ning (宁博宇)"
+description              : "My research focuses on wireless communications, including 5G/6G physical layer protocols, MIMO, OFDM, terahertz communications, wireless sensing/localization, HBF/IRS/DMA/MA, resource scheduling, channel estimation, beam management, codebook design, and digital pre-distortion, and I am skilled in signal processing, matrix theory, probability theory, Bayesian estimation, compressed sensing, deep learning, and tensor analysis."
+repository               : "BoyuNing/BoyuNing.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : G-SWFCX99KQZ
+google_analytics_id      : G-WPF391SXPV
 
 # SEO Related
 google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
@@ -21,7 +21,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
+  name             : "Boyu Ning (宁博宇)"
   avatar           : "images/ry_profile.jpeg"
   bio              : "TikTok"
   location         : "Singapore"
