@@ -50,7 +50,8 @@
 
 .page__content {
   #about-me{
-    margin-top: -10em;
+    color: #62c462;
+    margin-top: -15em;
       &:before { 
         content: ''; 
         display: block; 
@@ -62,6 +63,7 @@
   }
    
   h1 {
+    color: #0047AB;
     margin-top: 1em;
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
