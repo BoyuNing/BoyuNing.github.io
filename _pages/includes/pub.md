@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/d78e9899-a4ee-4771-b3ba-796efcd1fbc8)
 # 📝 Publications 
 ## 🖊️ First-Author Journals
 
@@ -218,7 +217,7 @@
 - **Abstract**: <details>Analog beamforming is appealing for future terahertz (THz) communications since it can generate high-gain directional beams with low-cost phase shifters. However, the conventional analog beamforming based on array response vector to steer a narrow beam may suffer from severe performance loss in wideband systems due to the “beam squint” effect over frequency. To tackle this issue, we propose a new max-min beamformer design in this paper for THz wideband communication systems, which aims to maximize the minimum beam gain over the entire frequency band. To solve this challenging problem, an augmented Lagrange method (ALM) is proposed to obtain a high-quality solution with low complexity. Numerical results show that the proposed beam design can yield considerably better performance than the conventional narrowband beamformer, especially in the case of large angle of departure (AoD) from the base station (BS) to the user.</details>
 
 - **IEEE Bibtex**：B. Ning W. Mei, L. Zhu, Z. Chen and R. Zhang “Max-Min Beamformer for THz Wideband Communications,” IEEE Intl. Conf. Commun. (ICC), Rome, Italy, 2023, pp. 1747-1752.
-- </div>
+</div>
 </div>
 
 <div class='paper-box'>
@@ -235,7 +234,7 @@
 - **Abstract**: <details>Beam training is a promising scheme to realize the terahertz (THz) multiple-input multiple-output (MIMO) communication without leveraging the explicit channel state information (CSI). In this context, a crucial issue for THz MIMO is how to design the beam codewords for realizing any expected radiation pattern during the training. The narrow beams can be realized by array response vectors, whereas the wide-beam design is still an open problem. In this paper, we propose a novel optimization-based method for THz wide-beam design, which is referred to as successive convex approximation (SCA)-based auxiliary target pursuit (SCA-ATP). Specifically, we equivalently formulate the wide-beam design as a problem of pursuing the auxiliary target in Euclidean space. By lifting the optimization vector into a positive semidefinite matrix, we can tackle it with the SCA technique by iteratively solving a sequence of simplified subproblems.</details>
 
 - **IEEE Bibtex**：B. Ning and Z. Chen, "An Optimization-Based Wide-Beam Design for THz MIMO," IEEE Global Communications Conference, Rio de Janeiro, Brazil, 2022, pp. 1802-1807 
-- </div>
+</div>
 </div>
 
 <div class='paper-box'>
@@ -252,7 +251,7 @@
 - **Abstract**: <details>Array-of-subarrays (AoSA) is an appealing architecture in terahertz (THz) communications since the analog beamformers on sub arrays can provide beam gain to combat severe propagation loss, by low-cost phase shifters. However, the traditional beamforming scheme for AoSA, i.e., each subarray serves an exclusive user, cannot cope with the effect of beam split in THz wideband communications. In this paper, we propose a novel concept, i.e., beam split aggregation and multiplexing (BSAM), to support wideband THz communication with AoSA architecture. Specifically, we first characterize the direction of beam split and then derive the maximum bandwidth of a subband that will not cause beam split. Finally, based on the above results, we propose a criterion to plan the subbands and design the analog beamformers for BSAM.</details>
 
 - **IEEE Bibtex**：B. Ning, L. Li, W. Chen and Z. Chen, "Wideband Terahertz Communications with AoSA: Beam Split Aggregation and Multiplexing," IEEE Global Communications Conference, Rio de Janeiro, Brazil, 2022, pp. 1709-1714.
-- </div>
+</div>
 </div>
 
 <div class='paper-box'>
@@ -269,7 +268,7 @@
 - **Abstract**: <details>The sum-rate maximization for intelligent reflecting surfaces (IRS)-aided multi-user MIMO is a recent open problem. The challenge lies in the coefficient designs for reflecting phase shifts (at the IRS) and precoder/decoders (at the BS/users). By imposing two additional constraints, i.e., 1) each IRS only serves one user, 2) no interference exists between users, this paper proposes a novel space-orthogonal scheme for multiple IRSs- aided multi-user MIMO in millimeter wave (mmWave) and terahertz (THz) communications. Based on a new zero-interference criterion, we can successively find high-quality solutions for the IRSs' phase shifts and precoder/decoders one by one. Specifically, we first propose a null-space singular value decomposition (SVD) approach to determine a part of the precoder/decoders. Then, two solutions are developed for IRSs’ phase shifts, namely, the segment matching (SM) and the phase iterative evolution (PIE) solutions. Finally, the remanent part of the precoder/decoders are calculated by SVD with water-filling under the zero-interference constraint. Numerical results demonstrate the effectiveness and superiority of our proposed scheme.</details>
 
 - **IEEE Bibtex**：B. Ning, P. Wang, L. Li, Z. Chen and J. Fang, “Space-orthogonal Scheme for IRSs-aided Multi-user MIMO in mmWave/THz Communications,” IEEE Intl. Conf. Com- mun.  (ICC), Seoul, South Korea, May 2022, pp. 1-6.
-- </div>
+</div>
 </div>
 
 <div class='paper-box'>
@@ -286,7 +285,7 @@
 - **Abstract**: <details>In this paper, we propose to apply intelligent reflecting surface (IRS) to the physical-layer service integration (PHY-SI) system, where a single-antenna access point (AP) integrates two sorts of service messages, i.e., multicast message and confidential message, via superposition coding to serve multiple single-antenna users. Our goal is to optimize the power allocation (for transmitting different messages) at the AP and the passive beamforming at the IRS to maximize the achievable secrecy rate region. To this end, we formulate this problem as a bi-objective optimization problem. To tackle the non-convexity of this problem, we propose a Charnes-Cooper transformation (CCT)-based algorithm to obtain its high-quality suboptimal solutions, thereby approximately characterizing the secrecy rate region. Numerical results demonstrate the advantages of leveraging IRS in improving the performance of PHY-SI.</details>
 
 - **IEEE Bibtex**：B. Ning, Z. Chen, Z. Tian and S. Li, “Optimization for IRS-Assisted Systems With Both Multicast and Confidential Messages,” IEEE Global Communications Conference, Madrid, Spain, 2021, pp. 1-6.
-- </div>
+</div>
 </div>
 
 <div class='paper-box'>
@@ -303,7 +302,7 @@
 - **Abstract**: <details>Intelligent reflecting surface (IRS) is envisioned as a promising technology to broaden signal coverage and enhance transmission in terahertz (THz) communications. Due to the passivity of IRS, the channel measurement can not be achieved by traditional pilot manner and the subsequent cooperative transmission design remains an open problem. This paper investigates the channel estimation and transmission solutions for massive multiple input multiple output (MIMO) IRS-assisted THz system. The channel estimation is realized by beam training and the quantization error is analyzed for evaluating performance. In addition, a novel hierarchical search codebook design is proposed as a low-complexity basis of beam training. Based on above foundations, we propose a cooperative channel estimation procedure to tactfully acquire the channel knowledge. Finally, by leveraging obtained channel information, the designs of IRS and transceivers are directly provided in closed form without reconstructing the full channel matrix or additional optimization. Simulation and numerical results are presented to illustrate the minimum signal to noise ratio (SNR) required for beam training and the efficacy of the proposed transmission solutions.</details>
 
 - **IEEE Bibtex**：B. Ning Z. Chen, W. Chen and Y. Du “Channel Estimation and Transmission for Intelligent Reflecting Surface Assisted THz Communications,” IEEE Intl. Conf. Commun. (ICC), Dublin, Ireland, Jun. 2020.
-- </div>
+</div>
 </div>
 
 <div class='paper-box'>
@@ -320,7 +319,7 @@
 - **Abstract**: <details>Intelligent Reflecting Surface (IRS)-assisted beamforming is an emerging paradigm proposed to enhanced signal coverage and multiplexing in terahertz (THz) communications with low hardware cost and reduced power consumption. This paper investigates the beamformer and IRS design to enhance security of downlink THz communication in multi-input single-output (MISO) wiretap channel, where an Alice-Bob pair wishes to communicate secretly with the assist of IRS, in the presence of Eve. Our goal is to maximize the secrecy rate by designing the active beamformer at the base station (BS) and the passive reflecting phase shifters (PSs) at the IRS, which turns out to be an intractable mixed integer non-convex optimization problem. To tackle it, we respectively propose a low-computational- complexity successive design and a high-secure- performance joint design, which both attain high- quality suboptimal solutions. Specifically, in the successive design, we first design the PSs under an introduced principle, followed by that the beamformer is optimally derived, both in closed form. In the joint design, an alternating manner is proposed to optimize the PSs and the beamformer one by one with each other being fixed in each iteration until both reach the convergence. Numerical results show that the proposed designs achieve better secrecy performance than existing IRS-assisted design and traditional non-IRS- assisted secure design.</details>
 
 - **IEEE Bibtex**：B. Ning, Z. Chen, W. Chen and L. Li, “Improving Security of THz Communication with Intelligent Reflecting Surface,”  IEEE Global Communications Conference, Waikoloa, HI, USA, 2019, pp. 1-6.
-- </div>
+</div>
 </div>
 
 <div class='paper-box'>
@@ -337,7 +336,7 @@
 - **Abstract**: <details>This paper investigates the optimal secure beam steering design of millimeter wave (mmWave) communications, where an Alice-Bob pair wishes to communicate in secret in the presence of Eve, with each node equipped with large-scale antenna arrays. Owing to the reduced peak-to-average power ratio and hardware cost, beam steering design emerges as an attractive technique in mmWave communications recently. However, from the physical layer perspective, the beam steering design subject to security requirement has not been investigated yet. In this paper, we consider a secrecy rate maximization problem with respect to beam steering design, i.e., analog beam selection of radio frequency (RF) chains and power allocation over the selected RF chains, which turns out to be an intractable mixed integer nonlinear optimization problem. To tackle it, we first determine a set of optimal analog beam candidates, based on which the considered multi-input multi-output (MIMO) wiretap channel is decoupled into a sequence of parallel single-input single-output (SISO) wiretap channels. Then, it is shown that the optimal power allocation over the parallel wiretap channels can be derived in a semi-closed-form. Numerical results illustrate that the proposed design offer better secrecy performance than traditional beam steering design in the presence of wiretapping as long as the channel has more than two propagation paths.</details>
 
 - **IEEE Bibtex**：B. Ning, Z. Chen, L. Li and W. Chen, “Optimal Beam Steering Design for Large-Scale mmWave MIMO Wiretap Channel,” IEEE Global Communications Conference, Abu Dhabi, United Arab Emirates, 2018, pp. 1-6. 2018.
-- </div>
+</div>
 </div>
 
 ## 🧑‍🎨 Supervised Paper (Corresponding-Author)
