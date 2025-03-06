@@ -72,10 +72,10 @@
 
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
+  <div class='paper-box-image' style="text-align: center;">
     <div>
       <div class="badge">IEEE TCOM</div>
-      <img src='images/journal/J8.PNG' width="60%">
+      <img src='images/journal/J8.PNG' width="65%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
