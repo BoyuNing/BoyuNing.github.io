@@ -1,7 +1,7 @@
 
 
 
-# 💬 Invited Events
+# 🗓️ Invited Events
 
 - *2025.06.08*, IEEE International Conference on Communications (ICC) workshop-IMRAFWCS General Chair
 - *2024.12.08*, IEEE Global Communications Conference (GLOBECOM) workshop-IRAFWCC General Chair
@@ -21,5 +21,5 @@
 - *2020.06.08*, IEEE International Conference on Communications (ICC)  paper presentation
 - *2018.12.04*, IEEE Global Communications Conference (GLOBECOM) paper presentation
 
-# 💻 Internships
+# 💡 Patents
 - *2021.06 - 2021.12*, 2012 Wireless Communication Technology Laboratory, Huawei Research Institute Chengdu
