@@ -1,5 +1,6 @@
 # 📝 Publications 
-## 🖊️ First-Author Journals
+
+<h2 style="color: darkred;">🖊️ First-Author Journals</h2>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -200,8 +201,7 @@
 </div>
 </div>
 
-
-## 🀄 First-Author Conference
+<h2 style="color: darkred;">🀄 First-Author Conference</h2>
    
 <div class='paper-box'>
   <div class='paper-box-image' style="text-align: center;">
@@ -339,7 +339,8 @@
 </div>
 </div>
 
-## 🧑‍🎨 Supervised Paper (Corresponding-Author)
+<h2 style="color: darkred;">🧑‍🎨 Supervised Paper (Corresponding-Author)</h2>
+
 
 - `IEEE WCL` [Sum-Rate Optimization for RIS-Aided Multiuser Communications With Movable Antennas](https://ieeexplore.ieee.org/document/10771791), Yunan Sun; Hao Xu; **Boyu Ning**; Zhenqiao Cheng; Chongjun Ouyang; Hongwen Yang
 - ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
