@@ -6,7 +6,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE TVT</div>
-      <img src='images/fs.png' width="100%">
+      <img src='images/journal/J12.PNG' width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -23,7 +23,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE TWC</div>
-      <img src='images/fs.png' width="100%">
+      <img src='images/journal/J11.PNG' width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -40,11 +40,11 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE OJCOM</div>
-      <img src='images/fs.png' width="100%">
+      <img src='images/journal/J10.PNG' width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
-[10] [Beamforming Technologies for Ultra-Massive MIMO in Terahertz Communications](https://ieeexplore.ieee.org/document/10045774) 🚀IEEE Featured Paper ❤️‍🔥IEEE Popular Article\\
+[10] [Beamforming Technologies for Ultra-Massive MIMO in Terahertz Communications](https://ieeexplore.ieee.org/document/10045774) 🚀 IEEE Featured Paper ❤️‍🔥 IEEE Popular Article\\
 🧑‍🎓  **Boyu Ning**, Zhongbao Tian, Weidong Mei, Zhi Chen, Chong Han, Shaoqian Li, Jinhong Yuan, Rui Zhang
   
 - **Abstract**: <details>Terahertz (THz) communications with a frequency band 0.1 – 10 THz are envisioned as a promising solution to future high-speed wireless communication. Although with tens of gigahertz available bandwidth, THz signals suffer from severe free-spreading loss and molecular-absorption loss, which limit the wireless transmission distance. To compensate for the propagation loss, the ultra-massive multiple-input-multiple-output (UM-MIMO) can be applied to generate a high-gain directional beam by beamforming technologies. In this paper, a review of beamforming technologies for THz UM-MIMO systems is provided. Specifically, we first present the system model of THz UM-MIMO and identify its channel parameters and architecture types. Then, we illustrate the basic principles of beamforming via UM-MIMO and discuss the far-field and near-field assumptions in THz UM-MIMO. Moreover, an important beamforming strategy in THz band, i.e., beam training, is introduced wherein the beam training protocol and codebook design approaches are summarized. The intelligent-reflecting-surface (IRS)-assisted joint beamforming and multi-user beamforming in THz UM-MIMO systems are studied, respectively. The spatial-wideband effect and frequency-wideband effect in the THz beamforming are analyzed and the corresponding solutions are provided. Further, we present the corresponding fabrication techniques and illuminate the emerging applications benefiting from THz beamforming. Open challenges and future research directions on THz UM-MIMO systems are finally highlighted.</details>
@@ -57,7 +57,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE IoT</div>
-      <img src='images/fs.png' width="100%">
+      <img src='images/journal/J9.PNG' width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -75,7 +75,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE TCOM</div>
-      <img src='images/fs.png' width="200%">
+      <img src='images/journal/J8.PNG' width="200%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -92,11 +92,11 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE TWC</div>
-      <img src='images/fs.png' width="200%">
+      <img src='images/journal/J7.PNG' width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
-[7] [A Unified 3D Beam Training and Tracking Procedure for Terahertz Communication](https://ieeexplore.ieee.org/document/9547829) ❤️‍🔥IEEE Popular Article\\
+[7] [A Unified 3D Beam Training and Tracking Procedure for Terahertz Communication](https://ieeexplore.ieee.org/document/9547829) ❤️‍🔥 IEEE Popular Article\\
 🧑‍🎓  **Boyu Ning**, Zhi Chen, Zhongbao Tian, Chong Han, Shaoqian Li
   
 - **Abstract**: <details>Terahertz (THz) communication is considered as an attractive way to overcome the bandwidth bottleneck and satisfy the ever-increasing capacity demand in the future. Due to the high directivity and propagation loss of THz waves, a massive MIMO system using beamforming is envisioned as a promising technology in THz communication to realize high-gain and directional transmission. However, pilots, which are the fundamentals for many beamforming schemes, are challenging to be accurately detected in the THz band owing to the severe propagation loss. In this paper, a unified 3D beam training and tracking procedure is proposed to effectively realize the beamforming in THz communications, by considering the line-of-sight (LoS) propagation. In particular, a novel quadruple-uniform planar array (QUPA) architecture is analyzed to enlarge the signal coverage, increase the beam gain, and reduce the beam squint loss. Then, a new 3D grid-based (GB) beam training is developed with low complexity, including the design of the 3D codebook and training protocol. Finally, a simple yet effective grid-based hybrid (GBH) beam tracking is investigated to support THz beamforming in an efficient manner. The communication framework based on this procedure can dynamically trigger beam training/tracking depending on the real-time quality of service. Numerical results are presented to demonstrate the superiority of our proposed beam training and tracking over the benchmark methods.</details>
@@ -109,7 +109,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE WCM</div>
-      <img src='images/journal/J6.PNG' width="200%">
+      <img src='images/journal/J6.PNG' width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -125,7 +125,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE TWC</div>
-      <img src='images/journal/J5.PNG' width="200%">
+      <img src='images/journal/J5.PNG' width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -142,11 +142,11 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE TVT</div>
-      <img src='images/journal/J4.PNG' width="200%">
+      <img src='images/journal/J4.PNG' width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
-[4] [Terahertz Multi-User Massive MIMO With Intelligent Reflecting Surface: Beam Training and Hybrid Beamforming](https://ieeexplore.ieee.org/document/9325920) 🚀ESI highly Cited Paper ❤️‍🔥IEEE Popular Article\\
+[4] [Terahertz Multi-User Massive MIMO With Intelligent Reflecting Surface: Beam Training and Hybrid Beamforming](https://ieeexplore.ieee.org/document/9325920) 🚀 ESI highly Cited Paper ❤️‍🔥 IEEE Popular Article\\
 🧑‍🎓  **Boyu Ning**, Zhi Chen, Wenrong Chen, Yiming Du, Jun Fang
   
 - **Abstract**: <details>Terahertz (THz) communications open a new frontier for the wireless network thanks to their dramatically wider available bandwidth compared to the current micro-wave and forthcoming millimeter-wave communications. However, due to the short length of THz waves, they also suffer from severe path attenuation and poor diffraction. To compensate for the THz-induced propagation loss, this paper proposes to combine two promising techniques, viz., massive multiple input multiple output (MIMO) and intelligent reflecting surface (IRS), in THz multi-user communications, considering their significant beamforming and aperture gains. Nonetheless, channel estimation and low-cost beamforming turn out to be two main obstacles to realizing this combination, due to the passivity of IRS for sending/receiving pilot signals and the large-scale use of expensive RF chains in massive MIMO. In view of these limitations, this paper first develops a cooperative beam training scheme to facilitate the channel estimation with IRS. In particular, we design two different hierarchical codebooks for the proposed training procedure, which are able to balance between the robustness against noise and searching complexity. Based on the training results, we further propose two cost-efficient hybrid beamforming (HB) designs for both single-user and multi-user scenarios, respectively. Simulation results demonstrate that the proposed joint beam training and HB scheme is able to achieve close performance to the optimal fully digital beamforming which is implemented even under perfect channel state information (CSI).</details>
@@ -158,11 +158,11 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE WCL</div>
-      <img src='images/journal/J3.PNG' width="200%">
+      <img src='images/journal/J3.PNG' width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
-[3] [Beamforming Optimization for Intelligent Reflecting Surface Assisted MIMO: A Sum-Path-Gain Maximization Approach](https://ieeexplore.ieee.org/document/9043523) ❤️‍🔥IEEE Popular Article \\
+[3] [Beamforming Optimization for Intelligent Reflecting Surface Assisted MIMO: A Sum-Path-Gain Maximization Approach](https://ieeexplore.ieee.org/document/9043523) ❤️‍🔥 IEEE Popular Article \\
 🧑‍🎓  **Boyu Ning**, Zhi Chen, Wenjie Chen, Jun Fang
 - **Abstract**: <details>Recently, intelligent reflecting surface (IRS) has emerged as an appealing technique that enables wireless communications with low hardware cost and low power consumption. In this letter, we consider an IRS-assisted point-to-point multi-input multi-output (MIMO) system, where a source communicates with its destination with the help of an IRS. Our goal is to maximize the spectral efficiency of this system by jointly optimizing the (active) precoding at the source and the (passive) phase shifters (PSs) at the IRS. However, this turns out to be an intractable mixed-integer non-convex optimization problem. To circumvent the intractability, we propose a new sum-path-gain maximization (SPGM) criterion to obtain a high-quality and efficient suboptimal solution to this problem. Specifically, the PSs are first designed based on a simplified optimization problem, which aims to maximize the sum-gains of the spatial paths between the source and the destination. Then, a low-complexity alternating direction method of multipliers (ADMM) algorithm is utilized to solve this simplified problem. Finally, with the above obtained PSs, the source precoding is derived by performing the singular value decomposition (SVD) on the effective channel between the source and the destination. Numerical results demonstrate that the proposed scheme can achieve near-optimal performance.</details>
 - **IEEE Bibtex**：B. Ning, Z. Chen, W. Chen and J. Fang, "Beamforming Optimization for Intelli- gent Reflecting Surface Assisted MIMO: A Sum-Path-Gain Maximization Approach," IEEE Wireless Commun. Lett., vol. 9, no. 7, pp. 1105-1109, Jul. 2020.
@@ -173,7 +173,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE CL</div>
-      <img src='images/journal/J2.PNG' width="200%">
+      <img src='images/journal/J2.PNG' width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
