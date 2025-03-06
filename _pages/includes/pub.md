@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/d78e9899-a4ee-4771-b3ba-796efcd1fbc8)
 # 📝 Publications 
 ## 🖊️ First-Author Journals
 
@@ -181,7 +181,7 @@
 🧑‍🎓  **Boyu Ning**, Zhi Chen
   
 - **Abstract**: <details>With the popularization of large-scale antenna arrays in wireless communication, the conventional fully digital beamforming, which requires dedicated radio frequency (RF) chain per antenna element, is not viable for large-scale antenna systems due to its prohibitively high hardware cost. On the contrary, the analog beamforming design only requires one RF chain for all antenna elements, and has been widely investigated in recent years. In this letter, we consider the secure analog beamforming design that maximizes the secrecy rate in the large-scale multi-input single-output multi-eavesdropper (MISOME) wiretap channel. However, the associated secrecy rate maximization (SRM) problem is naturally non-convex due to the constant envelope constraint induced by the analog beamformer. To handle the problem, a low-complexity algorithm that combines the Dinkelbach approach and iterative coordinate ascent (ICA) algorithm is proposed to obtain a high-quality suboptimal solution. Numerical results illustrate that the proposed algorithm achieves both higher secrecy rate performance and lower complexity as compared to the existing schemes.</details>
-- **IEEE Bibtex**：B. Ning and Z. Chen, "Low-Complexity Analog Beamforming for mmWave Large- Scale MISOME Wiretap Channel," IEEE Commun. Lett., vol. 24, no. 2, pp. 268-271, Feb.  2020.
+- **IEEE Bibtex**：B. Ning and Z. Chen, "Low-Complexity Analog Beamforming for mmWave Large- Scale MISOME Wiretap Channel," IEEE Commun. Lett., vol. 24, no. 2, pp. 268-271, Feb. 2020.
 </div>
 </div>
 
@@ -197,124 +197,160 @@
 🧑‍🎓  **Boyu Ning**, Zhi Chen, Xiaomei Wang, Weidong Mei
   
 - **Abstract**: <details>In this letter, in order to tackle the potential security issues in large-scale multi-antenna systems without exorbitant hardware cost, we focus on the codebook-based hybrid beamforming design in multi-input single-output multi-eavesdropper Gaussian wiretap channel to maximize the secrecy rate. However, the secrecy rate maximization (SRM) problem is non-convex by nature due to the codebook constraint imposed by analog beamforming. To handle it, we first reformulate the SRM problem into a combinatorial inner product maximization problem. Then, a combinatorial matching pursuit algorithm is proposed to solve this problem, in which the analog beamformer is designed independently of the digital beamformer. With the obtained analog beamformer, we show that the optimal digital beamformer admits a closed-form expression. Simulation results reveal that the proposed algorithm, though suffering from the inherent precision loss of the codebook, can achieve the near-optimal performance of the optimal FDB.</details>
-- **IEEE Bibtex**：B. Ning, Z. Chen, X. Wang and W. Mei, "Codebook-Based Hybrid Beamforming Design for MISOME Wiretap Channel," IEEE Wireless Commun. Lett., vol.  8, no.  1, pp.  57-60, Feb.  2019.
+- **IEEE Bibtex**：B. Ning, Z. Chen, X. Wang and W. Mei, "Codebook-Based Hybrid Beamforming Design for MISOME Wiretap Channel," IEEE Wireless Commun. Lett., vol. 8, no. 1, pp. 57-60, Feb. 2019.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
+## 🀄 First-Author Conference
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE ICC</div>
+      <img src='images/journal/J1.PNG' width="100%">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
+[8] [Max-Min Beamformer for THz Wideband Communications](https://ieeexplore.ieee.org/document/10283532) \\
+🧑‍🎓  **Boyu Ning**, Weidong Mei; Lipeng Zhu; Zhi Chen; Rui Zhang
+  
+- **Abstract**: <details>Analog beamforming is appealing for future terahertz (THz) communications since it can generate high-gain directional beams with low-cost phase shifters. However, the conventional analog beamforming based on array response vector to steer a narrow beam may suffer from severe performance loss in wideband systems due to the “beam squint” effect over frequency. To tackle this issue, we propose a new max-min beamformer design in this paper for THz wideband communication systems, which aims to maximize the minimum beam gain over the entire frequency band. To solve this challenging problem, an augmented Lagrange method (ALM) is proposed to obtain a high-quality solution with low complexity. Numerical results show that the proposed beam design can yield considerably better performance than the conventional narrowband beamformer, especially in the case of large angle of departure (AoD) from the base station (BS) to the user.</details>
 
-[FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) \\
-**Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
-
-[**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
-  - This work is included by many famous speech synthesis open-source projects, such as [PaddlePaddle/Parakeet ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social)](https://github.com/PaddlePaddle/PaddleSpeech), [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet) and [fairseq ![](https://img.shields.io/github/stars/pytorch/fairseq?style=social)](https://github.com/pytorch/fairseq).
+- **IEEE Bibtex**：B. Ning W. Mei, L. Zhu, Z. Chen and R. Zhang “Max-Min Beamformer for THz Wideband Communications,” IEEE Intl. Conf. Commun. (ICC), Rome, Italy, 2023, pp. 1747-1752.
+- </div>
 </div>
-</div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE GLOBECOM</div>
+      <img src='images/journal/J1.PNG' width="100%">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
+[7] [An Optimization-Based Wide-Beam Design for THz MIMO](https://ieeexplore.ieee.org/document/10008700) \\
+🧑‍🎓  **Boyu Ning**, Zhi Chen
+  
+- **Abstract**: <details>Beam training is a promising scheme to realize the terahertz (THz) multiple-input multiple-output (MIMO) communication without leveraging the explicit channel state information (CSI). In this context, a crucial issue for THz MIMO is how to design the beam codewords for realizing any expected radiation pattern during the training. The narrow beams can be realized by array response vectors, whereas the wide-beam design is still an open problem. In this paper, we propose a novel optimization-based method for THz wide-beam design, which is referred to as successive convex approximation (SCA)-based auxiliary target pursuit (SCA-ATP). Specifically, we equivalently formulate the wide-beam design as a problem of pursuing the auxiliary target in Euclidean space. By lifting the optimization vector into a positive semidefinite matrix, we can tackle it with the SCA technique by iteratively solving a sequence of simplified subproblems.</details>
 
-[Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD) \\ 
-Ziyue Jiang, Jinglin Liu, **Yi Ren**, et al.
-
-[**Project**](https://boostprompt.github.io/boostprompt/) 
-  - This work has been deployed on many TikTok products.
-  - Advandced zero-shot voice cloning model.
+- **IEEE Bibtex**：B. Ning and Z. Chen, "An Optimization-Based Wide-Beam Design for THz MIMO," IEEE Global Communications Conference, Rio de Janeiro, Brazil, 2022, pp. 1802-1807 
+- </div>
 </div>
-</div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE GLOBECOM</div>
+      <img src='images/journal/J1.PNG' width="100%">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
+[6] [Wideband Terahertz Communications with AoSA: Beam Split Aggregation and Multiplexing](https://ieeexplore.ieee.org/document/10001065) \\
+🧑‍🎓  **Boyu Ning**, Lingxiang Li; Wenrong Chen; Zhi Chen
+  
+- **Abstract**: <details>Array-of-subarrays (AoSA) is an appealing architecture in terahertz (THz) communications since the analog beamformers on sub arrays can provide beam gain to combat severe propagation loss, by low-cost phase shifters. However, the traditional beamforming scheme for AoSA, i.e., each subarray serves an exclusive user, cannot cope with the effect of beam split in THz wideband communications. In this paper, we propose a novel concept, i.e., beam split aggregation and multiplexing (BSAM), to support wideband THz communication with AoSA architecture. Specifically, we first characterize the direction of beam split and then derive the maximum bandwidth of a subband that will not cause beam split. Finally, based on the above results, we propose a criterion to plan the subbands and design the analog beamformers for BSAM.</details>
 
-[DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) \\
-Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
-
-- Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
-- DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (1600k+ views) on Bilibili!
-
-- [**Project**](https://diffsinger.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=DiffSpeech Stars)](https://github.com/NATSpeech/NATSpeech) \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label=DiffSinger Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech)
-</div>
+- **IEEE Bibtex**：B. Ning, L. Li, W. Chen and Z. Chen, "Wideband Terahertz Communications with AoSA: Beam Split Aggregation and Multiplexing," IEEE Global Communications Conference, Rio de Janeiro, Brazil, 2022, pp. 1709-1714.
+- </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE ICC</div>
+      <img src='images/journal/J1.PNG' width="100%">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
+[5] [Space-orthogonal Scheme for IRSs-aided Multi-user MIMO in mmWave/THz Communications](https://ieeexplore.ieee.org/document/9838635) \\
+🧑‍🎓  **Boyu Ning**, Tiantian Wang, Peilan Wang, Zhi Chen, Jun Fang
+  
+- **Abstract**: <details>The sum-rate maximization for intelligent reflecting surfaces (IRS)-aided multi-user MIMO is a recent open problem. The challenge lies in the coefficient designs for reflecting phase shifts (at the IRS) and precoder/decoders (at the BS/users). By imposing two additional constraints, i.e., 1) each IRS only serves one user, 2) no interference exists between users, this paper proposes a novel space-orthogonal scheme for multiple IRSs- aided multi-user MIMO in millimeter wave (mmWave) and terahertz (THz) communications. Based on a new zero-interference criterion, we can successively find high-quality solutions for the IRSs' phase shifts and precoder/decoders one by one. Specifically, we first propose a null-space singular value decomposition (SVD) approach to determine a part of the precoder/decoders. Then, two solutions are developed for IRSs’ phase shifts, namely, the segment matching (SM) and the phase iterative evolution (PIE) solutions. Finally, the remanent part of the precoder/decoders are calculated by SVD with water-filling under the zero-interference constraint. Numerical results demonstrate the effectiveness and superiority of our proposed scheme.</details>
 
-[PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166) \\
-**Yi Ren**, Jinglin Liu, Zhou Zhao
-
-[**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
+- **IEEE Bibtex**：B. Ning, P. Wang, L. Li, Z. Chen and J. Fang, “Space-orthogonal Scheme for IRSs-aided Multi-user MIMO in mmWave/THz Communications,” IEEE Intl. Conf. Com- mun.  (ICC), Seoul, South Korea, May 2022, pp. 1-6.
+- </div>
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE GLOBECOM</div>
+      <img src='images/journal/J1.PNG' width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+[4] [Optimization for IRS-Assisted Systems With Both Multicast and Confidential Messages](https://ieeexplore.ieee.org/document/9685519) \\
+🧑‍🎓  **Boyu Ning**, Zhi Chen, Zhongbao Tian, Shaoqian Li
+  
+- **Abstract**: <details>In this paper, we propose to apply intelligent reflecting surface (IRS) to the physical-layer service integration (PHY-SI) system, where a single-antenna access point (AP) integrates two sorts of service messages, i.e., multicast message and confidential message, via superposition coding to serve multiple single-antenna users. Our goal is to optimize the power allocation (for transmitting different messages) at the AP and the passive beamforming at the IRS to maximize the achievable secrecy rate region. To this end, we formulate this problem as a bi-objective optimization problem. To tackle the non-convexity of this problem, we propose a Charnes-Cooper transformation (CCT)-based algorithm to obtain its high-quality suboptimal solutions, thereby approximately characterizing the secrecy rate region. Numerical results demonstrate the advantages of leveraging IRS in improving the performance of PHY-SI.</details>
+
+- **IEEE Bibtex**：B. Ning, Z. Chen, Z. Tian and S. Li, “Optimization for IRS-Assisted Systems With Both Multicast and Confidential Messages,” IEEE Global Communications Conference, Madrid, Spain, 2021, pp. 1-6.
+- </div>
 </div>
 
-- `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE ICC</div>
+      <img src='images/journal/J1.PNG' width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+[3] [Channel Estimation and Transmission for Intelligent Reflecting Surface Assisted THz Communications](https://ieeexplore.ieee.org/document/9149153) \\
+🧑‍🎓  **Boyu Ning**, Zhi Chen, Wenrong Chen, Yiming Du
+  
+- **Abstract**: <details>Intelligent reflecting surface (IRS) is envisioned as a promising technology to broaden signal coverage and enhance transmission in terahertz (THz) communications. Due to the passivity of IRS, the channel measurement can not be achieved by traditional pilot manner and the subsequent cooperative transmission design remains an open problem. This paper investigates the channel estimation and transmission solutions for massive multiple input multiple output (MIMO) IRS-assisted THz system. The channel estimation is realized by beam training and the quantization error is analyzed for evaluating performance. In addition, a novel hierarchical search codebook design is proposed as a low-complexity basis of beam training. Based on above foundations, we propose a cooperative channel estimation procedure to tactfully acquire the channel knowledge. Finally, by leveraging obtained channel information, the designs of IRS and transceivers are directly provided in closed form without reconstructing the full channel matrix or additional optimization. Simulation and numerical results are presented to illustrate the minimum signal to noise ratio (SNR) required for beam training and the efficacy of the proposed transmission solutions.</details>
+
+- **IEEE Bibtex**：B. Ning Z. Chen, W. Chen and Y. Du “Channel Estimation and Transmission for Intelligent Reflecting Surface Assisted THz Communications,” IEEE Intl. Conf. Commun. (ICC), Dublin, Ireland, Jun. 2020.
+- </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE GLOBECOM</div>
+      <img src='images/journal/J1.PNG' width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+[2] [Improving Security of THz Communication with Intelligent Reflecting Surface](https://ieeexplore.ieee.org/document/9024636) \\
+🧑‍🎓  **Boyu Ning**, Zhi Chen, Wenjie Chen, Lingxiang Li
+  
+- **Abstract**: <details>Intelligent Reflecting Surface (IRS)-assisted beamforming is an emerging paradigm proposed to enhanced signal coverage and multiplexing in terahertz (THz) communications with low hardware cost and reduced power consumption. This paper investigates the beamformer and IRS design to enhance security of downlink THz communication in multi-input single-output (MISO) wiretap channel, where an Alice-Bob pair wishes to communicate secretly with the assist of IRS, in the presence of Eve. Our goal is to maximize the secrecy rate by designing the active beamformer at the base station (BS) and the passive reflecting phase shifters (PSs) at the IRS, which turns out to be an intractable mixed integer non-convex optimization problem. To tackle it, we respectively propose a low-computational- complexity successive design and a high-secure- performance joint design, which both attain high- quality suboptimal solutions. Specifically, in the successive design, we first design the PSs under an introduced principle, followed by that the beamformer is optimally derived, both in closed form. In the joint design, an alternating manner is proposed to optimize the PSs and the beamformer one by one with each other being fixed in each iteration until both reach the convergence. Numerical results show that the proposed designs achieve better secrecy performance than existing IRS-assisted design and traditional non-IRS- assisted secure design.</details>
+
+- **IEEE Bibtex**：B. Ning, Z. Chen, W. Chen and L. Li, “Improving Security of THz Communication with Intelligent Reflecting Surface,”  IEEE Global Communications Conference, Waikoloa, HI, USA, 2019, pp. 1-6.
+- </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE GLOBECOM</div>
+      <img src='images/journal/J1.PNG' width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+[1] [Optimal Beam Steering Design for Large-Scale mmWave MIMO Wiretap Channel](https://ieeexplore.ieee.org/document/8647769) \\
+🧑‍🎓  **Boyu Ning**, Zhi Chen, Lingxiang Li, Wenrong Chen
+  
+- **Abstract**: <details>This paper investigates the optimal secure beam steering design of millimeter wave (mmWave) communications, where an Alice-Bob pair wishes to communicate in secret in the presence of Eve, with each node equipped with large-scale antenna arrays. Owing to the reduced peak-to-average power ratio and hardware cost, beam steering design emerges as an attractive technique in mmWave communications recently. However, from the physical layer perspective, the beam steering design subject to security requirement has not been investigated yet. In this paper, we consider a secrecy rate maximization problem with respect to beam steering design, i.e., analog beam selection of radio frequency (RF) chains and power allocation over the selected RF chains, which turns out to be an intractable mixed integer nonlinear optimization problem. To tackle it, we first determine a set of optimal analog beam candidates, based on which the considered multi-input multi-output (MIMO) wiretap channel is decoupled into a sequence of parallel single-input single-output (SISO) wiretap channels. Then, it is shown that the optimal power allocation over the parallel wiretap channels can be derived in a semi-closed-form. Numerical results illustrate that the proposed design offer better secrecy performance than traditional beam steering design in the presence of wiretapping as long as the channel has more than two propagation paths.</details>
+
+- **IEEE Bibtex**：B. Ning, Z. Chen, L. Li and W. Chen, “Optimal Beam Steering Design for Large-Scale mmWave MIMO Wiretap Channel,” IEEE Global Communications Conference, Abu Dhabi, United Arab Emirates, 2018, pp. 1-6. 2018.
+- </div>
+</div>
+
+## 🧑‍🎨 Supervised Paper (Corresponding-Author)
+
+- `IEEE WCL` [Sum-Rate Optimization for RIS-Aided Multiuser Communications With Movable Antennas](https://ieeexplore.ieee.org/document/10771791), Yunan Sun; Hao Xu; **Boyu Ning**; Zhenqiao Cheng; Chongjun Ouyang; Hongwen Yang
 - ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
 - ``ACL 2023`` [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](), Zhenhui Ye, Rongjie Huang, **Yi Ren**, et al.
 - ``ACL 2023`` [FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models](), Ziyue Jiang, Qian Yang, Jialong Zuo, Zhenhui Ye, Rongjie Huang, **Yi Ren** and Zhou Zhao
 - ``ACL 2023`` [Revisiting and Incorporating GAN and Diffusion Models in High-Fidelity Speech Synthesis](), Rongjie Huang, **Yi Ren**, Ziyue Jiang, et al.
 - ``ACL 2023`` [Improving Prosody with Masked Autoencoder and Conditional Diffusion Model For Expressive Text-to-Speech](), Rongjie Huang, Chunlei Zhang, **Yi Ren**, et al.
 - `ICLR 2023` [Bag of Tricks for Unsupervised Text-to-Speech](https://openreview.net/forum?id=SbR9mpTuBn), **Yi Ren**, Chen Zhang, Shuicheng Yan
-- `INTERSPEECH 2023` [StyleS2ST: zero-shot style transfer for direct speech-to-speech translation](https://arxiv.org/abs/2305.17732), Kun Song, **Yi Ren**, Yi Lei, et al.
-- `INTERSPEECH 2023` [GenerTTS: Pronunciation Disentanglement for Timbre and Style Generalization in Cross-Lingual Text-to-Speech](https://arxiv.org/abs/2306.15304), Yahuan Cong, Haoyu Zhang, Haopeng Lin, Shichao Liu, Chunfeng Wang, **Yi Ren**, et al.
-- `NeurIPS 2022` [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](), Ziyue Jiang, Zhe Su, Zhou Zhao, Qian Yang, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social&label=Code+Stars)](https://github.com/Zain-Jiang/Dict-TTS)
-- `NeurIPS 2022` [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech](), Rongjie Huang, **Yi Ren**, et al.
-- `NeurIPS 2022` [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus](), Lichao Zhang, Ruiqi Li, Shoutong Wang, Liqun Deng, Jinglin Liu, **Yi Ren**, et al. *(Datasets and Benchmarks Track)* [![](https://img.shields.io/github/stars/M4Singer/M4Singer?style=social&label=Dataset+Stars)](https://github.com/M4Singer/M4Singer)
-- ``ACM-MM 2022`` [ProDiff: Progressive Fast Diffusion Model for High-Quality Text-to-Speech](), Rongjie Huang, Zhou Zhao, Huadai Liu, Jinglin Liu, Chenye Cui, **Yi Ren**, [![](https://img.shields.io/github/stars/Rongjiehuang/ProDiff?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/ProDiff)
-- ``ACM-MM 2022`` [SingGAN: Generative Adversarial Network For High-Fidelity Singing Voice Generation](https://arxiv.org/abs/2110.07468), Rongjie Huang, Chenye Cui, Chen Feiayng, **Yi Ren**, et al.
-- ``IJCAI 2022`` [SyntaSpeech: Syntax-Aware Generative Adversarial Text-to-Speech](), Zhenhui Ye, Zhou Zhao, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/yerfor/SyntaSpeech?style=social&label=Code+Stars)](https://github.com/yerfor/SyntaSpeech)
-- ``IJCAI 2022`` <span style="color:red">(Oral)</span> [EditSinger: Zero-Shot Text-Based Singing Voice Editing System with Diverse Prosody Modeling](), Lichao Zhang, Zhou Zhao, **Yi Ren**, et al.
-- ``IJCAI 2022`` [FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis](), Rongjie Huang, Max W. Y. Lam, Jun Wang, Dan Su, Dong Yu, **Yi Ren**, Zhou Zhao,  <span style="color:red">(Oral)</span>, [![](https://img.shields.io/github/stars/Rongjiehuang/FastDiff?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/FastDiff)
-- ``NAACL 2022`` [A Study of Syntactic Multi-Modality in Non-Autoregressive Machine Translation](), Kexun Zhang, Rui Wang, Xu Tan, Junliang Guo, **Yi Ren**, et al.
-- ``ACL 2022`` [Revisiting Over-Smoothness in Text to Speech](https://arxiv.org/abs/2202.13066), **Yi Ren**, Xu Tan, Tao Qin, et al.
-- ``ACL 2022`` [Learning the Beauty in Songs: Neural Singing Voice Beautifier](https://arxiv.org/abs/2202.13277), Jinglin Liu, Chengxi Li, **Yi Ren**, et al. \| [![](https://img.shields.io/github/stars/MoonInTheRiver/NeuralSVB?style=social&label=Code+Stars)](https://github.com/MoonInTheRiver/NeuralSVB)
-- ``ICASSP 2022`` [ProsoSpeech: Enhancing Prosody With Quantized Vector Pre-training in Text-to-Speech](https://prosospeech.github.io/), **Yi Ren**, et al.
-- ``INTERSPEECH 2021`` [EMOVIE: A Mandarin Emotion Speech Dataset with a Simple Emotional Text-to-Speech Model](https://arxiv.org/abs/2106.09317), Chenye Cui, **Yi Ren**, et al.
-- ``INTERSPEECH 2021`` <span style="color:red">(best student paper award candidate)</span> [WSRGlow: A Glow-based Waveform Generative Model for Audio Super-Resolution](https://arxiv.org/abs/2106.08507), Kexun Zhang, **Yi Ren**, Changliang Xu and Zhou Zhao
-- ``ICASSP 2021`` [Denoising Text to Speech with Frame-Level Noise Modeling](https://arxiv.org/abs/2012.09547), Chen Zhang, **Yi Ren**, Xu Tan, et al. \| [**Project**](https://speechresearch.github.io/denoispeech/)
-- ``ACM-MM 2021`` [Multi-Singer: Fast Multi-Singer Singing Voice Vocoder With A Large-Scale Corpus](https://arxiv.org/pdf/2112.10358), Rongjie Huang, Feiyang Chen, **Yi Ren**, et al. <span style="color:red">(Oral)</span>
-- ``IJCAI 2021`` [FedSpeech: Federated Text-to-Speech with Continual Learning](https://www.ijcai.org/proceedings/2021/527), Ziyue Jiang, **Yi Ren**, et al.
-- ``KDD 2020`` [DeepSinger: Singing Voice Synthesis with Data Mined From the Web](https://dl.acm.org/doi/abs/10.1145/3394486.3403249), **Yi Ren**, Xu Tan, Tao Qin, et al. \| [**Project**](https://speechresearch.github.io/deepsinger/)
-- ``KDD 2020`` [LRSpeech: Extremely Low-Resource Speech Synthesis and Recognition](https://dl.acm.org/doi/abs/10.1145/3394486.3403331), Jin Xu, Xu Tan, **Yi Ren**, et al. \| [**Project**](https://speechresearch.github.io/lrspeech/)
-- ``INTERSPEECH 2020`` [MultiSpeech: Multi-Speaker Text to Speech with Transformer](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/3139.pdf), Mingjian Chen, Xu Tan, **Yi Ren**, et al. \| [**Project**](https://speechresearch.github.io/multispeech/)
-- ``ICML 2019`` <span style="color:red">(Oral)</span> [Almost Unsupervised Text to Speech and Automatic Speech Recognition](https://pdfs.semanticscholar.org/9075/a3e6271e5ef4953491488d1776527e632408.pdf), **Yi Ren**, Xu Tan, Tao Qin, et al.  \| [**Project**](https://speechresearch.github.io/unsuper/) 
 
-## 👄 TalkingFace & Avatar
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/real3d.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis](https://openreview.net/forum?id=7ERQPyR2eb), Zhenhui Ye, Tianyun Zhong, Yi Ren, et al. <span style="color:red">(Spotlight)</span> [**Project**](https://real3dportrait.github.io/) | [**Code**](https://github.com/yerfor/Real3DPortrait)
-</div>
-</div>
-
-- `ICLR 2023` [GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://openreview.net/forum?id=YfwMIDhPccD), Zhenhui Ye, Ziyue Jiang, **Yi Ren**, et al.
-- `AAAI 2024` [AMD: Autoregressive Motion Diffusion](https://arxiv.org/abs/2305.09381), Bo Han, Hao Peng, Minjing Dong, **Yi Ren**, et al.
-- ``AAAI 2022`` [Parallel and High-Fidelity Text-to-Lip Generation](https://arxiv.org/abs/2107.06831), Jinglin Liu, Zhiying Zhu, **Yi Ren**, et al. \| [![](https://img.shields.io/github/stars/Dianezzy/ParaLip?style=social&label=ParaLip Stars)](https://github.com/Dianezzy/ParaLip)
-- ``AAAI 2022`` [Flow-based Unconstrained Lip to Speech Generation](https://ojs.aaai.org/index.php/AAAI/article/view/19966), Jinzheng He, Zhou Zhao, **Yi Ren**, et al.
-- ``ACM-MM 2020`` [FastLR: Non-Autoregressive Lipreading Model with Integrate-and-Fire](https://dl.acm.org/doi/10.1145/3394171.3413740), Jinglin Liu, **Yi Ren**, et al.
-
-## 📚 Machine Translation 
-- ``ACL 2023`` [AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation](), Rongjie Huang, Huadai Liu, Xize Cheng, **Yi Ren**, et al.
-- `ICLR 2023` [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation](https://openreview.net/forum?id=UVAmFAtC5ye), Rongjie Huang, Jinglin Liu, Huadai Liu, **Yi Ren**, Lichao Zhang, Jinzheng He, Zhou Zhao
-- ``AAAI 2021`` [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/abs/2006.07926), Chen Zhang, Xu Tan, **Yi Ren**, et al. \| [**Project**](https://speechresearch.github.io/uwspeech/)
-- ``IJCAI 2020`` [Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation](https://www.ijcai.org/Proceedings/2020/0534.pdf), Jinglin Liu, **Yi Ren**, Xu Tan, et al.
-- ``ACL 2020`` [SimulSpeech: End-to-End Simultaneous Speech to Text Translation](https://www.aclweb.org/anthology/2020.acl-main.350), **Yi Ren**, Jinglin Liu, Xu Tan, et al.
-- ``ACL 2020`` [A Study of Non-autoregressive Model for Sequence Generation](https://arxiv.org/abs/2004.10454), **Yi Ren**, Jinglin Liu, Xu Tan, et al.
-- ``ICLR 2019`` [Multilingual Neural Machine Translation with Knowledge Distillation](https://openreview.net/forum?id=S1gUsoR9YX), Xu Tan, **Yi Ren**, Di He, et al.
-
-
-## 🎼 Music & Dance Generation 
-- ``IEEE TMM`` [SDMuse: Stochastic Differential Music Editing and Generation via Hybrid Representation](https://ieeexplore.ieee.org/document/10149095), Chen Zhang, Yi Ren, Kejun Zhang, Shuicheng Yan.
-- ``AAAI 2021`` [SongMASS: Automatic Song Writing with Pre-training and Alignment Constraint](https://arxiv.org/abs/2012.05168), Zhonghao Sheng, Kaitao Song, Xu Tan, **Yi Ren**, et al.
-- ``ACM-MM 2020`` <span style="color:red">(Oral)</span> [PopMAG: Pop Music Accompaniment Generation](https://dl.acm.org/doi/10.1145/3394171.3413721), **Yi Ren**, Jinzheng He, Xu Tan, et al. \| [**Project**](https://speechresearch.github.io/popmag/)
 
 ## 🧑‍🎨 Generative Model
 - ``ICLR 2022`` [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY), Luping Liu, **Yi Ren**, Zhijie Lin, Zhou Zhao \| [![](https://img.shields.io/github/stars/luping-liu/PNDM?style=social&label=Code+Stars)](https://github.com/luping-liu/PNDM) \| [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pseudo-numerical-methods-for-diffusion-models-1/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=pseudo-numerical-methods-for-diffusion-models-1)
 
-## Others
-- `NeurIPS 2023` [Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective](https://openreview.net/forum?id=Rp4PA0ez0m), Pengfei Wei, Lingdong Kong, Xinghua Qu, **Yi Ren**, et al.
-- ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**
