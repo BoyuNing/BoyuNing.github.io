@@ -56,13 +56,14 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fff;
-$background-color           : linear-gradient(135deg, #f5f7fa, #c3cfe2); // 渐变背景
-//$background-color           : #fff;
+$body-color                 : linear-gradient(135deg, #f5f7fa, #c3cfe2); // 渐变背景
+//$body-color                 : #fff;
+$background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$text-color                 : $dark-red;
+//$border-color               : $lighter-gray;
+$border-color               : $light-gray;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
@@ -72,29 +73,26 @@ $danger-color               : #ee5f5b;
 $info-color                 : #52adc8;
 
 /* brands */
-$behance-color              : #1769FF;
-$dribbble-color             : #ea4c89;
-$facebook-color             : #3b5998;
-$flickr-color               : #ff0084;
-$foursquare-color           : #0072b1;
-$github-color               : #171516;
-$google-plus-color          : #dd4b39;
-$instagram-color            : #517fa4;
-$lastfm-color               : #d51007;
-$linkedin-color             : #007bb6;
-$pinterest-color            : #cb2027;
-$rss-color                  : #fa9b39;
-$soundcloud-color           : #ff3300;
-$stackoverflow-color        : #fe7a15;
-$tumblr-color               : #32506d;
-$twitter-color              : #55acee;
-$vimeo-color                : #1ab7ea;
-$vine-color                 : #00bf8f;
-$youtube-color              : #bb0000;
-$xing-color                 : #006567;
-
-
-/* links */
+$behance-color              : #0047AB; // 深蓝色，更显专业
+$dribbble-color             : #F400A1; // 更饱和的粉红色，增加视觉冲击力
+$facebook-color             : #3b5998; // 保持不变，深蓝色已经很好
+$flickr-color               : #E60073; // 更深的粉红色，更显优雅
+$foursquare-color           : #009688; // 青绿色，增加现代感
+$github-color               : #24292E; // 更深的黑色，增加对比度
+$google-plus-color          : #D93025; // 更深的红色，更显力量
+$instagram-color            : #833AB4; // 紫色，增加神秘感
+$lastfm-color               : #C30000; // 更深的红色，更显力量
+$linkedin-color             : #0E76A8; // 更深的蓝色，更显专业
+$pinterest-color            : #BD081C; // 更深的红色，更显活力
+$rss-color                  : #F26522; // 更深的橙色，更显温暖
+$soundcloud-color           : #FF5500; // 更饱和的橙色，增加视觉冲击力
+$stackoverflow-color        : #F48024; // 更浅的橙色，增加亲和力
+$tumblr-color               : #36465D; // 更深的蓝色，增加稳重感
+$twitter-color              : #1DA1F2; // 更浅的蓝色，更显清新
+$vimeo-color                : #86C9EF; // 更浅的蓝色，更显柔和
+$vine-color                 : #00AF54; // 更深的绿色，更显自然
+$youtube-color              : #FF0000; // 保持不变，红色已经很好
+$xing-color                 : #005A5B; // 更深的绿色，更显稳重
 $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
