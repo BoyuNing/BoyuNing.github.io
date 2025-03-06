@@ -5,6 +5,22 @@
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">IEEE CL</div>
+      <img src='images/fs.png' width="200%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+[2] [Low-Complexity Analog Beamforming for mmWave Large-Scale MISOME Wiretap Channel](https://ieeexplore.ieee.org/document/8911409) \\
+🧑‍🎓  **Boyu Ning**, Zhi Chen
+  
+- **Abstract**: <details>With the popularization of large-scale antenna arrays in wireless communication, the conventional fully digital beamforming, which requires dedicated radio frequency (RF) chain per antenna element, is not viable for large-scale antenna systems due to its prohibitively high hardware cost. On the contrary, the analog beamforming design only requires one RF chain for all antenna elements, and has been widely investigated in recent years. In this letter, we consider the secure analog beamforming design that maximizes the secrecy rate in the large-scale multi-input single-output multi-eavesdropper (MISOME) wiretap channel. However, the associated secrecy rate maximization (SRM) problem is naturally non-convex due to the constant envelope constraint induced by the analog beamformer. To handle the problem, a low-complexity algorithm that combines the Dinkelbach approach and iterative coordinate ascent (ICA) algorithm is proposed to obtain a high-quality suboptimal solution. Numerical results illustrate that the proposed algorithm achieves both higher secrecy rate performance and lower complexity as compared to the existing schemes.</details>
+- **IEEE Bibtex**：B. Ning and Z. Chen, "Low-Complexity Analog Beamforming for mmWave Large- Scale MISOME Wiretap Channel," IEEE Commun. Lett., vol. 24, no. 2, pp. 268-271, Feb.  2020.
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">IEEE WCL</div>
       <img src='images/fs.png' width="200%">
     </div>
@@ -14,7 +30,7 @@
 🧑‍🎓  **Boyu Ning**, Zhi Chen, Xiaomei Wang, Weidong Mei
   
 - **Abstract**: <details>In this letter, in order to tackle the potential security issues in large-scale multi-antenna systems without exorbitant hardware cost, we focus on the codebook-based hybrid beamforming design in multi-input single-output multi-eavesdropper Gaussian wiretap channel to maximize the secrecy rate. However, the secrecy rate maximization (SRM) problem is non-convex by nature due to the codebook constraint imposed by analog beamforming. To handle it, we first reformulate the SRM problem into a combinatorial inner product maximization problem. Then, a combinatorial matching pursuit algorithm is proposed to solve this problem, in which the analog beamformer is designed independently of the digital beamformer. With the obtained analog beamformer, we show that the optimal digital beamformer admits a closed-form expression. Simulation results reveal that the proposed algorithm, though suffering from the inherent precision loss of the codebook, can achieve the near-optimal performance of the optimal FDB.</details>
-- **Bibtex**：B. Ning, Z. Chen, X. Wang and W. Mei, "Codebook-Based Hybrid Beamforming Design for MISOME Wiretap Channel," IEEE Wireless Commun. Lett., vol.  8, no.  1, pp.  57-60, Feb.  2019.
+- **IEEE Bibtex**：B. Ning, Z. Chen, X. Wang and W. Mei, "Codebook-Based Hybrid Beamforming Design for MISOME Wiretap Channel," IEEE Wireless Commun. Lett., vol.  8, no.  1, pp.  57-60, Feb.  2019.
 </div>
 </div>
 
