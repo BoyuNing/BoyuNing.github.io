@@ -75,7 +75,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE TCOM</div>
-      <img src='images/journal/J8.PNG' width="200%">
+      <img src='images/journal/J8.PNG' width="60%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
