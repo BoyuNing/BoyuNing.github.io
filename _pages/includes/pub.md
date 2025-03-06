@@ -1,21 +1,55 @@
 
 # 📝 Publications 
-## 🖊️ First Author Journals
+## 🖊️ First-Author Journals
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">IEEE IoT</div>
+      <div class="badge">IEEE TVT</div>
       <img src='images/fs.png' width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
-[9] [Beamforming Technologies for Ultra-Massive MIMO in Terahertz Communications](https://ieeexplore.ieee.org/document/10045774) \\
-🧑‍🎓  **Boyu Ning**, Tiantian Wang, Chongwen Huang, Yuchen Zhang, Zhi Chen
+[12] [Phase Hopping Scheme for IRS-Aided MIMO Communications](https://ieeexplore.ieee.org/document/10711285) \\
+🧑‍🎓  **Boyu Ning**, Nianzu Li, Weidong Mei, Songjie Yang, Yuchen Zhang
   
-- **Abstract**: <details>Terahertz (THz) communication is expected to be one of the core enabling technologies for future systems. Due to the poor scattering and severe reflection loss of THz waves, the line-of-sight (LoS) communication is considered as a leading feature in THz multiple-input–multiple-output (MIMO) systems. To realize LoS communication, beam training is a promising scheme to find the beamforming vectors without leveraging explicit channel state information (CSI). In this context, a crucial issue for THz MIMO is how to design the beam codewords for realizing any expected radiation pattern during the training. In particular, the narrow beams can be realized by array response vectors whereas the wide-beam design is still an open problem. In this article, we propose two high-quality algorithms, namely, successive convex approximation (SCA)-based auxiliary target pursuit (SCA-ATP) and the sum of symmetrical array response vectors (S-SARVs), for offline design and real-time design, respectively. Numerical results show that SCA-ATP yields the best performance in terms of the beam-pattern error (BPE) compared with benchmarks, and S-SARV can achieve a close performance to SCA-ATP with low computational complexity.</details>
+- **Abstract**: <details>Intelligent reflecting surface (IRS) has been deemed as a promising technology to reconfigure the signal propagation environments cost-effectively. However, due to the lack of radio-frequency (RF) chains at the IRSs, their channel estimation becomes a significant challenge. In this correspondence, we propose a novel phase hopping scheme for IRS-aided multiple-input multiple-output (MIMO) communication systems, which dispenses with the channel state information (CSI) by randomly changing the IRS's reflections over different time slots within the channel coherence time, thereby creating artificial time diversity to enhance the communication performance. Based on a minor modification on the current cellular protocol, we first design a new and compatible frame structure for the proposed phase hopping scheme. Then, we derive its ergodic capacity and outage probability in closed-form using random matrix theory and gain essential insights into its asymptotic behaviors. Numerical results validate our theoretical analysis and show the superiority of our proposed phase hopping scheme to the benchmark scheme without phase hopping.</details>
 
-- **IEEE Bibtex**：B. Ning, T. Wang, C. Huang, Y. Zhang, and Z. Chen, “Widebeam designs for terahertz massive MIMO: SCA-ATP and S-SARV,” IEEE Internet Things J., no.  12, pp. 10 857-10 869, June  2023.
+- **IEEE Bibtex**：B. Ning, N. Li, W. Mei, S. Yang and Y. Zhang, "Phase Hopping Scheme for IRS-Aided MIMO Communications," IEEE Trans. Veh. Technol., vol. 74, no. 2, pp. 3491-3496, Feb. 2025.
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE TWC</div>
+      <img src='images/fs.png' width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+[11] [Codebook Design and Performance Analysis for Wideband Beamforming in Terahertz Communications](https://ieeexplore.ieee.org/document/10739944) \\
+🧑‍🎓  **Boyu Ning**, Weidong Mei, Lipeng Zhu, Zhi Chen, Rui Zhang
+  
+- **Abstract**: <details>The codebook-based analog beamforming is appealing for future terahertz (THz) communications since it can generate high-gain directional beams with low-cost phase shifters via low-complexity beam training. However, conventional beamforming codebook design based on array response vectors for narrowband communications may suffer from severe performance loss in wideband systems due to the “beam squint” effect over frequency. To tackle this issue, we propose in this paper a new codebook design method for analog beamforming in wideband THz systems. In particular, to characterize the analog beamforming performance in wideband systems, we propose a new metric termed wideband beam gain, which is given by the minimum beamforming gain over the entire frequency band given a target angle. Based on this metric, a wideband analog beamforming codebook design problem is formulated for optimally balancing the beamforming gains in both the spatial and frequency domains, and the performance loss of conventional narrowband beamforming in wideband systems is analyzed. To solve the new wideband beamforming codebook design problem, we divide the spatial domain into orthogonal angular zones each associated with one beam, thereby decoupling the codebook design into a zone division sub-problem and a set of beamforming optimization sub-problems each for one zone. For the zone division sub-problem, we propose a bisection method to obtain the optimal boundaries for separating adjacent zones. While for each of the per-zone-based beamforming optimization sub-problems, we further propose an efficient augmented Lagrange method (ALM) to solve it. Numerical results demonstrate the performance superiority of our proposed codebook design for wideband analog beamforming to the narrowband beamforming codebook and also validate our performance analysis.</details>
+
+- **IEEE Bibtex**：B. Ning, W. Mei, L. Zhu, Z. Chen and R. Zhang, "Codebook Design and Performance Analysis for Wideband Beamforming in Terahertz Communications," IEEE Trans. Wireless Commun., vol. 23, no. 12, pp. 19618-19633, Dec. 2024.
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE OJCOM</div>
+      <img src='images/fs.png' width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+[10] [Beamforming Technologies for Ultra-Massive MIMO in Terahertz Communications](https://ieeexplore.ieee.org/document/10045774) 🚀IEEE Featured Paper ❤️‍🔥IEEE Popular Article\\
+🧑‍🎓  **Boyu Ning**, Zhongbao Tian, Weidong Mei, Zhi Chen, Chong Han, Shaoqian Li, Jinhong Yuan, Rui Zhang
+  
+- **Abstract**: <details>Terahertz (THz) communications with a frequency band 0.1 – 10 THz are envisioned as a promising solution to future high-speed wireless communication. Although with tens of gigahertz available bandwidth, THz signals suffer from severe free-spreading loss and molecular-absorption loss, which limit the wireless transmission distance. To compensate for the propagation loss, the ultra-massive multiple-input-multiple-output (UM-MIMO) can be applied to generate a high-gain directional beam by beamforming technologies. In this paper, a review of beamforming technologies for THz UM-MIMO systems is provided. Specifically, we first present the system model of THz UM-MIMO and identify its channel parameters and architecture types. Then, we illustrate the basic principles of beamforming via UM-MIMO and discuss the far-field and near-field assumptions in THz UM-MIMO. Moreover, an important beamforming strategy in THz band, i.e., beam training, is introduced wherein the beam training protocol and codebook design approaches are summarized. The intelligent-reflecting-surface (IRS)-assisted joint beamforming and multi-user beamforming in THz UM-MIMO systems are studied, respectively. The spatial-wideband effect and frequency-wideband effect in the THz beamforming are analyzed and the corresponding solutions are provided. Further, we present the corresponding fabrication techniques and illuminate the emerging applications benefiting from THz beamforming. Open challenges and future research directions on THz UM-MIMO systems are finally highlighted.</details>
+
+- **IEEE Bibtex**：B. Ning, Z. Tian, W. Mei, Z. Chen, C. Han, J. Yuan, S. Li and R Zhang, “Beamforming technologies for ultra-massive MIMO in terahertz communications,” IEEE Open J. Commun.  Soc., vol.  4, pp.  614–658, 2023.  
 </div>
 </div>
 
@@ -27,7 +61,7 @@
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
-[8] [Wide-Beam Designs for Terahertz Massive MIMO: SCA-ATP and S-SARV](https://ieeexplore.ieee.org/document/10033092) \\
+[9] [Wide-Beam Designs for Terahertz Massive MIMO: SCA-ATP and S-SARV](https://ieeexplore.ieee.org/document/10033092) \\
 🧑‍🎓  **Boyu Ning**, Tiantian Wang, Chongwen Huang, Yuchen Zhang, Zhi Chen
   
 - **Abstract**: <details>Terahertz (THz) communication is expected to be one of the core enabling technologies for future systems. Due to the poor scattering and severe reflection loss of THz waves, the line-of-sight (LoS) communication is considered as a leading feature in THz multiple-input–multiple-output (MIMO) systems. To realize LoS communication, beam training is a promising scheme to find the beamforming vectors without leveraging explicit channel state information (CSI). In this context, a crucial issue for THz MIMO is how to design the beam codewords for realizing any expected radiation pattern during the training. In particular, the narrow beams can be realized by array response vectors whereas the wide-beam design is still an open problem. In this article, we propose two high-quality algorithms, namely, successive convex approximation (SCA)-based auxiliary target pursuit (SCA-ATP) and the sum of symmetrical array response vectors (S-SARVs), for offline design and real-time design, respectively. Numerical results show that SCA-ATP yields the best performance in terms of the beam-pattern error (BPE) compared with benchmarks, and S-SARV can achieve a close performance to SCA-ATP with low computational complexity.</details>
@@ -45,7 +79,7 @@
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
-[7] [Multi-IRS-Aided Multi-User MIMO in mmWave/THz Communications: A Space-Orthogonal Scheme](https://ieeexplore.ieee.org/document/9927151) \\
+[8] [Multi-IRS-Aided Multi-User MIMO in mmWave/THz Communications: A Space-Orthogonal Scheme](https://ieeexplore.ieee.org/document/9927151) \\
 🧑‍🎓  **Boyu Ning**, Peilan Wang, Lingxiang Li, Zhi Chen, Jun Fang
   
 - **Abstract**: <details>Multiple-input multiple-output (MIMO) and intelligent reflecting surface (IRS) are two appealing technologies in millimeter-wave (mmWave) and terahertz (THz) communications. The challenge of combining these two technologies lies in joint design for active beamforming (at the base-station (BS)/users) and passive beamforming (at the IRSs). In this paper, we consider a multi-IRS-aided multi-user MIMO scenario and propose a novel space-orthogonal scheme by applying zero-forcing techniques. Specifically, we first propose a multi-IRS-based zero-interference criterion, under which multi-user interference can be eliminated regardless of the IRS’s phase shifts. Based on this criterion, we decompose the precoder/decoder matrix into a product of two matrices, with one of them devised for interference cancellation and the other one of them devised for achievable rate maximization. Next, an approximate space-orthogonal technique referred to as partial zero-forcing (IRS-PZF) is proposed for proposed for devising the former matrix whose objective is to cancel the multi-user interference; while two efficient phase-shift schemes are proposed for the IRS passive beamforming, namely, water-filling segment matching (WSM) and phase iterative evolution (PIE), which balance between performance and complexity. Finally, we calculate the latter matrix of the precoder/decoder by applying the singular value decomposition (SVD) for the effective BS-user channels, so as to maximize the users’ achievable rates. Numerical results demonstrate the effectiveness and superiority of our proposed scheme compared with the benchmarks.</details>
@@ -62,11 +96,28 @@
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
-[6] [A Unified 3D Beam Training and Tracking Procedure for Terahertz Communication](https://ieeexplore.ieee.org/document/9547829) ❤️‍🔥IEEE Popular Article\\
+[7] [A Unified 3D Beam Training and Tracking Procedure for Terahertz Communication](https://ieeexplore.ieee.org/document/9547829) ❤️‍🔥IEEE Popular Article\\
 🧑‍🎓  **Boyu Ning**, Zhi Chen, Zhongbao Tian, Chong Han, Shaoqian Li
   
 - **Abstract**: <details>Terahertz (THz) communication is considered as an attractive way to overcome the bandwidth bottleneck and satisfy the ever-increasing capacity demand in the future. Due to the high directivity and propagation loss of THz waves, a massive MIMO system using beamforming is envisioned as a promising technology in THz communication to realize high-gain and directional transmission. However, pilots, which are the fundamentals for many beamforming schemes, are challenging to be accurately detected in the THz band owing to the severe propagation loss. In this paper, a unified 3D beam training and tracking procedure is proposed to effectively realize the beamforming in THz communications, by considering the line-of-sight (LoS) propagation. In particular, a novel quadruple-uniform planar array (QUPA) architecture is analyzed to enlarge the signal coverage, increase the beam gain, and reduce the beam squint loss. Then, a new 3D grid-based (GB) beam training is developed with low complexity, including the design of the 3D codebook and training protocol. Finally, a simple yet effective grid-based hybrid (GBH) beam tracking is investigated to support THz beamforming in an efficient manner. The communication framework based on this procedure can dynamically trigger beam training/tracking depending on the real-time quality of service. Numerical results are presented to demonstrate the superiority of our proposed beam training and tracking over the benchmark methods.</details>
 - **IEEE Bibtex**：B. Ning, Z. Chen, Z. Tian, C. Han and S. Li, “A Unified 3D Beam Training and Tracking Procedure for Terahertz Communication,” IEEE Trans. Wireless Commun., vol.  21, no.  4, pp.  2445-2461, Apr.  2022.  
+</div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE WCM</div>
+      <img src='images/fs.png' width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+[6] [Intelligent Reflecting Surface Assisted Terahertz Communications Toward 6G](https://ieeexplore.ieee.org/document/9690477) 👬Co-first\\
+🧑‍🎓  **Boyu Ning**, Zhi Chen, Chong Han, Zhongbao Tian, Shaoqian Li
+  
+- **Abstract**: <details>Terahertz (THz) communications have emerged as a promising candidate to support the heavy data traffic and exploding network capacity in the future 6G wireless networks. However, THz communications face many challenges for practical implementation, such as propagation loss, signal blockage, and hardware cost. In this article, an emerging paradigm of intelligent reflecting surface (IRS)-assisted THz communications is analyzed to address the above issues by leveraging joint active and passive beamforming to enhance the communication quality and reduce overhead. Aimed at practical implementation, an overview of the currently available approaches of realizing THz active/passive beam steering at the transmitter and IRS is presented. Based on these approaches, a beam training strategy for establishing joint beamforming is then investigated in THz communications. Moreover, various emerging and appealing 6G scenarios that integrate IRS into THz communications are envisioned. Open challenges and future research directions for this new paradigm are finally highlighted.</details>
+- **IEEE Bibtex**：Z. Chen, B. Ning, C. Han, Z. Tian and S. Li, “Intelligent Reflecting Surface Assisted Terahertz Communications Toward 6G,” IEEE Wireless Commun., vol. 28, no. 6, pp. 110-117, Dec.  2021.
 </div>
 </div>
 
@@ -95,7 +146,7 @@
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
-[4] [Terahertz Multi-User Massive MIMO With Intelligent Reflecting Surface: Beam Training and Hybrid Beamforming](https://ieeexplore.ieee.org/document/9325920) 🚀ESI highly Cited Paper\\
+[4] [Terahertz Multi-User Massive MIMO With Intelligent Reflecting Surface: Beam Training and Hybrid Beamforming](https://ieeexplore.ieee.org/document/9325920) 🚀ESI highly Cited Paper ❤️‍🔥IEEE Popular Article\\
 🧑‍🎓  **Boyu Ning**, Zhi Chen, Wenrong Chen, Yiming Du, Jun Fang
   
 - **Abstract**: <details>Terahertz (THz) communications open a new frontier for the wireless network thanks to their dramatically wider available bandwidth compared to the current micro-wave and forthcoming millimeter-wave communications. However, due to the short length of THz waves, they also suffer from severe path attenuation and poor diffraction. To compensate for the THz-induced propagation loss, this paper proposes to combine two promising techniques, viz., massive multiple input multiple output (MIMO) and intelligent reflecting surface (IRS), in THz multi-user communications, considering their significant beamforming and aperture gains. Nonetheless, channel estimation and low-cost beamforming turn out to be two main obstacles to realizing this combination, due to the passivity of IRS for sending/receiving pilot signals and the large-scale use of expensive RF chains in massive MIMO. In view of these limitations, this paper first develops a cooperative beam training scheme to facilitate the channel estimation with IRS. In particular, we design two different hierarchical codebooks for the proposed training procedure, which are able to balance between the robustness against noise and searching complexity. Based on the training results, we further propose two cost-efficient hybrid beamforming (HB) designs for both single-user and multi-user scenarios, respectively. Simulation results demonstrate that the proposed joint beam training and HB scheme is able to achieve close performance to the optimal fully digital beamforming which is implemented even under perfect channel state information (CSI).</details>
