@@ -1,22 +1,20 @@
 
 # 📝 Publications 
-## 🎙 Speech Synthesis
-
+## 🎙 First Author Journals
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">NeurIPS 2019</div>
+      <div class="badge">IEEE WCL</div>
       <img src='images/fs.png' alt="sym" width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
 
-[FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
-**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
-
-[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-- **Abstract**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
+[1] [Codebook-based hybrid beamforming design for MISOME wiretap channel](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8402135) \\
+**Boyu Ning**, Zhi Chen, Xiaomei Wang, Weidong Mei
+- **Abstract**: In this letter, in order to tackle the potential security issues in large-scale multi-antenna systems without exorbitant hardware cost, we focus on the codebook-based hybrid beamforming design in multi-input single-output multi-eavesdropper Gaussian wiretap channel to maximize the secrecy rate. However, the secrecy rate maximization (SRM) problem is non-convex by nature due to the codebook constraint imposed by analog beamforming. To handle it, we first reformulate the SRM problem into a combinatorial inner product maximization problem. Then, a combinatorial matching pursuit algorithm is proposed to solve this problem, in which the analog beamformer is designed independently of the digital beamformer. With the obtained analog beamformer, we show that the optimal digital beamformer admits a closed-form expression. Simulation results reveal that the proposed algorithm, though suffering from the inherent precision loss of the codebook, can achieve the near-optimal performance of the optimal FDB.
+- **Bibtex**：B. Ning, Z. Chen, X. Wang and W. Mei, "Codebook-Based Hybrid Beamforming Design for MISOME Wiretap Channel," IEEE Wireless Commun. Lett., vol.  8, no.  1, pp.  57-60, Feb.  2019.
 </div>
 </div>
 
