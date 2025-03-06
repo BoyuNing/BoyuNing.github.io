@@ -15,13 +15,13 @@ In addition to my technical responsibilities, I also serve as the **Technical Le
 - AI-assisted Integration for Uplink and Downlink Channels
 - Movable-Antenna Architecture Technologies
 - Ultra-Massive MIMO Full-Connected Hybrid Beamforming Technologies
-- Channel Graph-Assisted Communication Technology
+- Channel Graph-Assisted Communication Technologies
 
 I actively keep pace with the latest advancements in academic research, particularly in areas such as **terahertz communications**, **ultra-massive MIMO**, **movable antenna systems**, **intelligent reflecting surfaces (IRS)**, and **integrated sensing and communication (ISAC)**. If you are seeking any form of **academic cooperation**, please feel free to email me at [boydning@outlook.com](mailto:boydning@outlook.com). 
 
 <h2 style="color: darkred;">Personal Experience</h2>
 
-I graduated from Yingcai Honors College (英才实验学院), University of Electronic and Technology of China (UESTC, 电子科技大学), with a **Bachelor's degree** in 2018 and from the National Key Laboratory of Wireless Communications (通信抗干扰全国重点实验室), UESTC, with a **Ph.D**, supervised by [Zhi Chen (陈智)](https://scholar.google.com.hk/citations?hl=en&user=wnGtLtsAAAAJ). From 2022 to 2023, I was a Visiting Scholar with the Department of Electrical and Computer Engineering (电气与计算机工程系), National University of Singapore (新加坡国立大学), supervised by [Rui Zhang (张瑞)](https://scholar.google.com.hk/citations?hl=en&user=yoJqPIkAAAAJ). From 2023 to now,  I was a research **Principe Engineer** with the Huawei RAN Research Department II (无线网络系统技术研究二部), Chengdu, China.
+I graduated from Yingcai Honors College (英才实验学院), University of Electronic and Technology of China (UESTC, 电子科技大学), with a **Bachelor's degree** in 2018 and from the National Key Laboratory of Wireless Communications (通信抗干扰全国重点实验室), UESTC, with a **Ph.D** in 2023, supervised by [Zhi Chen (陈智)](https://scholar.google.com.hk/citations?hl=en&user=wnGtLtsAAAAJ). From 2022 to 2023, I was a Visiting Scholar with the Department of Electrical and Computer Engineering (电气与计算机工程系), National University of Singapore (新加坡国立大学), supervised by [Rui Zhang (张瑞)](https://scholar.google.com.hk/citations?hl=en&user=yoJqPIkAAAAJ). From 2023 to now,  I was a research **Principe Engineer** with the Huawei RAN Research Department II (无线网络系统技术研究二部), Chengdu, China.
 
 Over the research period, I have made significant contributions to [IEEE ComSoc](https://www.comsoc.org/), with over 50 top-tier [IEEE journal and conference papers published](https://ieeexplore.ieee.org/author/37086638264) (including 20+ as the first author). These publications span prestigious journals such as **IEEE JSAC**, **IEEE WCM**, **IEEE TWC**, **IEEE TCOM**, **IEEE IoT**, **IEEE TVT**, **IEEE WCL**, and **IEEE CL**, as well as renowned conferences like **IEEE GLOBECOM**, **IEEE ICC**, **IEEE ICASSP**, and **IEEE WNCN**. Additionally, I have secured over 10 national patents and co-authored 1 book. My expertise has been internationally recognized with **2 ESI highly cited paper**, **1 IEEE featured journal article**, and **8 IEEE popular papers**. 
 
