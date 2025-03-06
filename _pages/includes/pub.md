@@ -1,16 +1,15 @@
 
 # 📝 Publications 
-## 🎙 First Author Journals
+## 🖊️ First Author Journals
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE WCL</div>
-      <img src='images/fs.png' width="100%">
+      <img src='images/fs.png' width="200%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
-
 [1] [Codebook-based hybrid beamforming design for MISOME wiretap channel](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8402135) \\
 **Boyu Ning**, Zhi Chen, Xiaomei Wang, Weidong Mei
 - **Abstract**: In this letter, in order to tackle the potential security issues in large-scale multi-antenna systems without exorbitant hardware cost, we focus on the codebook-based hybrid beamforming design in multi-input single-output multi-eavesdropper Gaussian wiretap channel to maximize the secrecy rate. However, the secrecy rate maximization (SRM) problem is non-convex by nature due to the codebook constraint imposed by analog beamforming. To handle it, we first reformulate the SRM problem into a combinatorial inner product maximization problem. Then, a combinatorial matching pursuit algorithm is proposed to solve this problem, in which the analog beamformer is designed independently of the digital beamformer. With the obtained analog beamformer, we show that the optimal digital beamformer admits a closed-form expression. Simulation results reveal that the proposed algorithm, though suffering from the inherent precision loss of the codebook, can achieve the near-optimal performance of the optimal FDB.
