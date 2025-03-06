@@ -1,6 +1,6 @@
 # 🔥 News
 <div class='paper-box'>
-  <div class='paper-box-image'>
+  <div class='paper-box-image' style="text-align: center;">
     <div>
       <img src='images/news.png' width="50%">
     </div>
