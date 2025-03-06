@@ -125,7 +125,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE TWC</div>
-      <img src='images/fs.png' width="200%">
+      <img src='images/journal/J5.PNG' width="200%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -142,7 +142,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE TVT</div>
-      <img src='images/journal/J4.png' width="200%">
+      <img src='images/journal/J4.PNG' width="200%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -158,7 +158,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE WCL</div>
-      <img src='images/journal/J3.png' width="200%">
+      <img src='images/journal/J3.PNG' width="200%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -173,7 +173,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE CL</div>
-      <img src='images/journal/J2.png' width="200%">
+      <img src='images/journal/J2.PNG' width="200%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -189,7 +189,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE WCL</div>
-      <img src='images/journal/J1.png' width="200%">
+      <img src='images/journal/J1.PNG' width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
