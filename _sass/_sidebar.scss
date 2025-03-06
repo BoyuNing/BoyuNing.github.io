@@ -39,6 +39,7 @@
   }
 
   p, li {
+    text-align: justify;
     font-family: $sans-serif;
     font-size: $type-size-6;
     line-height: 1.5;
@@ -98,7 +99,6 @@
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
     }
   }
 }
