@@ -74,7 +74,7 @@
   <div class='paper-box-image' style="text-align: center;">
     <div>
       <div class="badge">IEEE TCOM</div>
-      <img src='images/journal/J8.PNG' width="65%">
+      <img src='images/journal/J8.PNG' width="75%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -202,12 +202,12 @@
 
 
 ## 🀄 First-Author Conference
-
+   
 <div class='paper-box'>
-  <div class='paper-box-image'>
+  <div class='paper-box-image' style="text-align: center;">
     <div>
       <div class="badge">IEEE ICC</div>
-      <img src='images/journal/J1.PNG' width="100%">
+      <img src='images/conf/C8.PNG' width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -224,7 +224,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE GLOBECOM</div>
-      <img src='images/journal/J1.PNG' width="100%">
+      <img src='images/conf/C7.PNG'' width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -241,7 +241,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE GLOBECOM</div>
-      <img src='images/journal/J1.PNG' width="100%">
+      <img src='images/conf/C6.PNG' width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -258,7 +258,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE ICC</div>
-      <img src='images/journal/J1.PNG' width="100%">
+      <img src='images/conf/C5.PNG' width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -275,7 +275,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE GLOBECOM</div>
-      <img src='images/journal/J1.PNG' width="100%">
+      <img src='images/conf/C4.PNG'width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -292,7 +292,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE ICC</div>
-      <img src='images/journal/J1.PNG' width="100%">
+      <img src='images/conf/C3.PNG' width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -309,7 +309,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE GLOBECOM</div>
-      <img src='images/journal/J1.PNG' width="100%">
+      <img src='images/conf/C2.PNG' width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -326,7 +326,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE GLOBECOM</div>
-      <img src='images/journal/J1.PNG' width="100%">
+      <img src='images/conf/C1.PNG' width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
