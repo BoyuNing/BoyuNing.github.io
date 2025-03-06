@@ -109,7 +109,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE WCM</div>
-      <img src='images/fs.png' width="200%">
+      <img src='images/journal/J6.PNG' width="200%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
