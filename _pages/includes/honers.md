@@ -1,10 +1,20 @@
 # 🎖️ Honors and Awards 
-- *2021.10* Tencent Scholarship (Top 1%)
-- *2021.10* National Scholarship (Top 1%)
-- *2020.12* [Baidu Scholarship](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E5%A5%96%E5%AD%A6%E9%87%91/9929412) (10 students in the world each year)
-- *2020.12* [AI Chinese new stars](https://mp.weixin.qq.com/s?__biz=MzA4NzQ5MTA2NA==&mid=2653639431&idx=1&sn=25b6368c1954419b9090840347d9a27d&chksm=8be75b90bc90d286a5af3ef8e610e822d705dc3cf4382b45e3f14489f3e7ec4fd8c95ed0eceb&mpshare=1&scene=2&srcid=0511LMlj9Qv9DeIZAjMjYAU9&sharer_sharetime=1620731348139&sharer_shareid=631c113940cb81f34895aa25ab14422a#rd) (100 worldwide each year)
-- *2020.12* [AI Chinese New Star Outstanding Scholar](https://mp.weixin.qq.com/s?__biz=MzA4NzQ5MTA2NA==&mid=2653639431&idx=1&sn=25b6368c1954419b9090840347d9a27d&chksm=8be75b90bc90d286a5af3ef8e610e822d705dc3cf4382b45e3f14489f3e7ec4fd8c95ed0eceb&mpshare=1&scene=2&srcid=0511LMlj9Qv9DeIZAjMjYAU9&sharer_sharetime=1620731348139&sharer_shareid=631c113940cb81f34895aa25ab14422a#rd) (10 candidates worldwide each year)
-- *2020.12* [ByteDance Scholars Program](https://ur.bytedance.com/scholarship) (10 students in China each year)
-- *2020.10* Tianzhou Chen Scholarship (Top 1%)
-- *2020.10* National Scholarship (Top 1%)
-- *2015.10* National Scholarship (Undergraduate) (Top 1%)
+
+- **Eaglet Wings Award** (Huawei Research Institute), 10/02/2024
+- **Third place in 2024 Wireless Algorithm Competition** (China University Alliance), 15/08/2024
+- **Professional Algorithm Engineer Certification** (Huawei Research Institute), 01/09/2023
+- **Outstanding Graduate Award** (Sichuan Provincial Department of Education), 01/06/2023
+- **Academic Rising Star Award** (University of Electronic Science and Technology of China), 01/06/2023
+- **Instructor of Academic Pilot Program of Yingcai Honors College** (University of Electronic Science and Technology of China), 10/06/2023
+- **Best Poster Award** (2023 Terahertz Communication Technology Forum, China), 27/05/2023
+- **Third Prize in 2023 Three Minute Thesis Competition** (IEEE ComSoc), 30/05/2023
+- **Rising Star Award** (Huawei Research Institute), 15/12/2023
+- **Huawei Top Minds Certification** (Huawei Research Institute), 01/07/2023
+- **Outstanding Top 10 Students** (University of Electronic Science and Technology of China, Top 0.1% in the entire university), 01/12/2022
+- **Outstanding Graduate Award** (University of Electronic Science and Technology of China, Top 2% in the entire university), 01/12/2022
+- **China Scholarship Council (CSC) Scholarship** (Study in Singapore), 06/07/2021
+- **National Scholarship** (Top 2% of PhD students in the college), 31/12/2021
+- **First-Class Academic Scholarship** (Top 5% of PhD students in the college), 31/12/2021
+- **Tang Lixin Scholarship** (Top 0.3% in the entire university), 01/12/2018
+- **First Place in Postgraduate Entrance Examination** (University of Electronic Science and Technology of China), 10/09/2019
+- **Most Comprehensive Research Study Award** (University of Oxford, Oxford Study Program), 30/08/2018
