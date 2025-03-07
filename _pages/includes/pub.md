@@ -49,7 +49,7 @@
   
 - **Abstract**: <details>Terahertz (THz) communications with a frequency band 0.1 – 10 THz are envisioned as a promising solution to future high-speed wireless communication. Although with tens of gigahertz available bandwidth, THz signals suffer from severe free-spreading loss and molecular-absorption loss, which limit the wireless transmission distance. To compensate for the propagation loss, the ultra-massive multiple-input-multiple-output (UM-MIMO) can be applied to generate a high-gain directional beam by beamforming technologies. In this paper, a review of beamforming technologies for THz UM-MIMO systems is provided. Specifically, we first present the system model of THz UM-MIMO and identify its channel parameters and architecture types. Then, we illustrate the basic principles of beamforming via UM-MIMO and discuss the far-field and near-field assumptions in THz UM-MIMO. Moreover, an important beamforming strategy in THz band, i.e., beam training, is introduced wherein the beam training protocol and codebook design approaches are summarized. The intelligent-reflecting-surface (IRS)-assisted joint beamforming and multi-user beamforming in THz UM-MIMO systems are studied, respectively. The spatial-wideband effect and frequency-wideband effect in the THz beamforming are analyzed and the corresponding solutions are provided. Further, we present the corresponding fabrication techniques and illuminate the emerging applications benefiting from THz beamforming. Open challenges and future research directions on THz UM-MIMO systems are finally highlighted.</details>
 
-- **IEEE Bibtex**：B. Ning, Z. Tian, W. Mei, Z. Chen, C. Han, J. Yuan, S. Li and R Zhang, “Beamforming technologies for ultra-massive MIMO in terahertz communications,” IEEE Open J. Commun.  Soc., vol.  4, pp.  614–658, 2023.  
+- **IEEE Bibtex**：B. Ning, Z. Tian, W. Mei, Z. Chen, C. Han, J. Yuan, S. Li and R Zhang, “Beamforming technologies for ultra-massive MIMO in terahertz communications,” IEEE Open J. Commun. Soc., vol.  4, pp.  614–658, 2023.  
 </div>
 </div>
 
@@ -340,17 +340,17 @@
 </div>
 
 <h2 style="color: darkred;">🧑‍🎨 Supervised Paper (Corresponding-Author)</h2>
+- `IEEE WCL 2025` Y. Sun, H. Xu, **B. Ning**, Z. Cheng, C. Ouyang and H. Yang, "[Sum-Rate Optimization for RIS-Aided Multiuser Communications With Movable Antennas](https://ieeexplore.ieee.org/document/10771791)," in IEEE Wireless Communications Letters, vol. 14, no. 2, pp. 450-454, Feb. 2025.
+- ``IEEE CL 2025`` Y. Sun, H. Xu, **B. Ning**, L. Zhu, C. Ouyang and H. Yang, "[STAR-RIS Aided Communication System with Movable Antennas Exploiting Statistical CSI](https://ieeexplore.ieee.org/document/10896641)," in IEEE Communications Letters, early access, doi: 10.1109/LCOMM.2025.3544059.
 
 
-- `IEEE WCL` [Sum-Rate Optimization for RIS-Aided Multiuser Communications With Movable Antennas](https://ieeexplore.ieee.org/document/10771791), Yunan Sun; Hao Xu; **Boyu Ning**; Zhenqiao Cheng; Chongjun Ouyang; Hongwen Yang
-- ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
-- ``ACL 2023`` [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](), Zhenhui Ye, Rongjie Huang, **Yi Ren**, et al.
-- ``ACL 2023`` [FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models](), Ziyue Jiang, Qian Yang, Jialong Zuo, Zhenhui Ye, Rongjie Huang, **Yi Ren** and Zhou Zhao
-- ``ACL 2023`` [Revisiting and Incorporating GAN and Diffusion Models in High-Fidelity Speech Synthesis](), Rongjie Huang, **Yi Ren**, Ziyue Jiang, et al.
-- ``ACL 2023`` [Improving Prosody with Masked Autoencoder and Conditional Diffusion Model For Expressive Text-to-Speech](), Rongjie Huang, Chunlei Zhang, **Yi Ren**, et al.
-- `ICLR 2023` [Bag of Tricks for Unsupervised Text-to-Speech](https://openreview.net/forum?id=SbR9mpTuBn), **Yi Ren**, Chen Zhang, Shuicheng Yan
-
-
-## 🧑‍🎨 Generative Model
-- ``ICLR 2022`` [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY), Luping Liu, **Yi Ren**, Zhijie Lin, Zhou Zhao \| [![](https://img.shields.io/github/stars/luping-liu/PNDM?style=social&label=Code+Stars)](https://github.com/luping-liu/PNDM) \| [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pseudo-numerical-methods-for-diffusion-models-1/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=pseudo-numerical-methods-for-diffusion-models-1)
+<h2 style="color: darkred;"> 👨‍👩‍👧‍👦 Collaborated Journals</h2>
+- ``IEEE TWC 2025`` S. Yang et al., "[Flexible Antenna Arrays for Wireless Communications: Modeling and Performance Evaluation](https://ieeexplore.ieee.org/document/10910066)," IEEE Trans. Wireless Commun., early access, doi: 10.1109/TWC.2025.3545305. 
+- ``IEEE ComS&T 2025`` L. Zhu et al., "[A Tutorial on Movable Antennas for Wireless Networks](https://ieeexplore.ieee.org/document/10906511),"  IEEE Communications Surveys & Tutorials, early access, doi: 10.1109/COMST.2025.3546373.
+- ``IEEE 2025`` 
+- ``IEEE 2025`` 
+- ``IEEE 2025`` 
+- ``IEEE 2025`` 
+- ``IEEE 2025`` 
+- ``IEEE 2025`` 
 
