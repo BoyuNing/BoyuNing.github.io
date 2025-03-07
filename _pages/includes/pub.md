@@ -1,6 +1,6 @@
 # 📝 Publications 
 
-<div style=<div style="background-color: #f0f0f0; padding: 20px;">
+<div style="background-color: #f0f0f0; padding: 20px;">
 
 <h2 style="color: darkred;">🖊️ First-Author Journals:</h2>
 <div class='paper-box'>
