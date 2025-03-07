@@ -2,10 +2,10 @@
 <div class='paper-box'>
   <div class="paper-box-image" style="display: flex; align-items: stretch; justify-content: center; gap: 10px;">
   <div style="flex: 1;">
-    <img src="images/news.png" width="50%">
+    <img src="images/news.png" width="90%">
   </div>
   <div style="flex: 1;">
-    <img src="images/news.png" width="50%">
+    <img src="images/news.png" width="90%">
   </div>
   </div>
 
