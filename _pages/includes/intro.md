@@ -20,7 +20,7 @@ At Huawei, I focused on the technology research and standardization of MIMO for 
 
 <h2 style="color: darkred;">Personal Experience</h2>
 
-<div style="background-color: #f5f5f5; padding: 10px;">
+<div style="background-color: #f7f7f7; padding: 10px;">
 
 <div markdown="1">  
 I graduated from Yingcai Honors College (英才实验学院), University of Electronic and Technology of China (UESTC, 电子科技大学), with a **Bachelor's degree** in 2018 and from the National Key Laboratory of Wireless Communications (通信抗干扰全国重点实验室), UESTC, with a **Ph.D** in 2023, supervised by [Zhi Chen (陈智)](https://scholar.google.com.hk/citations?hl=en&user=wnGtLtsAAAAJ). In 2018, I visited Lady Margaret Hall at the University of Oxford (牛津大学) as an **Exchange Student** and worked on the Heavy Goods Vehicles Project. During the latter half of 2021, I worked as an **Intern** at Huawei's 2012 Wireless Communication Laboratory (华为2012无线通信实验室), focusing on MU-MIMO beamforming research. From 2022 to 2023, I was a **Visiting Scholar** with the Department of Electrical and Computer Engineering (电气与计算机工程系), National University of Singapore (新加坡国立大学), supervised by [Rui Zhang (张瑞)](https://scholar.google.com.hk/citations?hl=en&user=yoJqPIkAAAAJ). From 2023 to now,  I was a research **Principe Engineer** with the Huawei RAN Research Department II (无线网络系统技术研究二部), Chengdu, China.
