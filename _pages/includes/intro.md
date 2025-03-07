@@ -3,25 +3,28 @@
 I am currently working at Huawei as a research **Principle Engineer** in RAN Research Department II. 
 
 My work is primarily focused on the standardization for **3GPP Release 20/21 physical layer MIMO air interface technologies**, which mainly include the evolution of the following key components:
-
-- Sounding Reference Signals (SRS)
-- Channel State Information Reference Signals (CSI-RS)
-- Codebook Framework Design
-- PMI (Precoding Matrix Indicator) Feedback Mechanisms
-
+<div style="background-color: #f8f8f8; padding: 10px;">
+<div markdown="1">  
+- Sounding Reference Signals (SRS) ✅
+- Channel State Information Reference Signals (CSI-RS) ✅
+- Codebook Framework Design ✅
+- PMI (Precoding Matrix Indicator) Feedback Mechanisms ✅
+</div>
+</div>
 In addition to my technical responsibilities, I also serve as the **Technical Leader** for exploratory projects in the following emerging areas:
-
-- AI-assisted Integration for Uplink and Downlink Channels
-- Movable-Antenna Architecture Technologies
-- Ultra-Massive MIMO Full-Connected Hybrid Beamforming Technologies
-- Channel Graph-Assisted Communication Technologies
-
+<div style="background-color: #f8f8f8; padding: 10px;">
+<div markdown="1">  
+- AI-assisted Integration for Uplink and Downlink Channels ☑️
+- Movable-Antenna Architecture Technologies ☑️
+- Ultra-Massive MIMO Full-Connected Hybrid Beamforming Technologies ☑️
+- Channel Graph-Assisted Communication Technologies ☑️
+</div>
+</div>
 At Huawei, I focused on the technology research and standardization of MIMO for **5G Advanced and 6G**, which enabled me to accumulate substantial experience in **translating academic knowledge into industrial applications**. I actively keep pace with the latest advancements in academic research, particularly in areas such as **terahertz communications**, **ultra-massive MIMO**, **movable antenna systems**, **intelligent reflecting surfaces (IRS)**, and **integrated sensing and communication (ISAC)**. If you are seeking any form of **academic collaboration**, please feel free to email me at [boydning@outlook.com](mailto:boydning@outlook.com). 
 
 <h2 style="color: darkred;">Personal Experience</h2>
 
 <div style="background-color: #f8f8f8; padding: 10px;">
-
 <div markdown="1">  
 I graduated from Yingcai Honors College (英才实验学院), University of Electronic and Technology of China (UESTC, 电子科技大学), with a **Bachelor's degree** in 2018 and from the National Key Laboratory of Wireless Communications (通信抗干扰全国重点实验室), UESTC, with a **Ph.D** in 2023, supervised by [Zhi Chen (陈智)](https://scholar.google.com.hk/citations?hl=en&user=wnGtLtsAAAAJ). In 2018, I visited Lady Margaret Hall at the University of Oxford (牛津大学) as an **Exchange Student** and worked on the Heavy Goods Vehicles Project. During the latter half of 2021, I worked as an **Intern** at Huawei's 2012 Wireless Communication Laboratory (华为2012无线通信实验室), focusing on MU-MIMO beamforming research. From 2022 to 2023, I was a **Visiting Scholar** with the Department of Electrical and Computer Engineering (电气与计算机工程系), National University of Singapore (新加坡国立大学), supervised by [Rui Zhang (张瑞)](https://scholar.google.com.hk/citations?hl=en&user=yoJqPIkAAAAJ). From 2023 to now,  I was a research **Principe Engineer** with the Huawei RAN Research Department II (无线网络系统技术研究二部), Chengdu, China.
 
