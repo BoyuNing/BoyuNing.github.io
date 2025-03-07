@@ -1,7 +1,5 @@
 # 📝 Publications 
 
-<div style="background-color: #f5f5f5; padding: 10px;">
-
 <h2 style="color: darkred;">🖊️ First-Author Journals:</h2>
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -202,8 +200,7 @@
 </div>
 </div>
 
-</div>
-
+<hr style="border: 2px dashed #B22222;" />
 <h2 style="color: darkred;">🀄 First-Author Conference:</h2>
    
 <div class='paper-box'>
@@ -342,12 +339,12 @@
 </div>
 </div>
 
-<hr style="border: 3px dashed #B22222;" />
+<hr style="border: 2px dashed #B22222;" />
 <h2 style="color: darkred;"> 👨🏻‍🏫 Supervised Paper (Corresponding-Author):</h2>
 - `IEEE WCL 2025` Y. Sun, H. Xu, **B. Ning**, Z. Cheng, C. Ouyang and H. Yang, "[Sum-Rate Optimization for RIS-Aided Multiuser Communications With Movable Antennas](https://ieeexplore.ieee.org/document/10771791)," in IEEE Wireless Communications Letters, vol. 14, no. 2, pp. 450-454, Feb. 2025.
 - ``IEEE CL 2025`` Y. Sun, H. Xu, **B. Ning**, L. Zhu, C. Ouyang and H. Yang, "[STAR-RIS Aided Communication System with Movable Antennas Exploiting Statistical CSI](https://ieeexplore.ieee.org/document/10896641)," in IEEE Communications Letters, early access, doi: 10.1109/LCOMM.2025.3544059.
 
-<hr style="border: 3px dashed #B22222;" />
+<hr style="border: 2px dashed #B22222;" />
 <h2 style="color: darkred;"> 👨‍👩‍👧‍👦 Collaborated Journals:</h2>
 - ``IEEE TWC 2025`` S. Yang et al., "[Flexible Antenna Arrays for Wireless Communications: Modeling and Performance Evaluation](https://ieeexplore.ieee.org/document/10910066)," IEEE Trans. Wireless Commun., early access, doi: 10.1109/TWC.2025.3545305. 
 - ``IEEE ComS&T 2025`` L. Zhu et al., "[A Tutorial on Movable Antennas for Wireless Networks](https://ieeexplore.ieee.org/document/10906511),"  IEEE Communications Surveys \& Tutorials, early access, doi: 10.1109/COMST.2025.3546373.
@@ -377,7 +374,7 @@
 - ``IEEE WCL 2023`` M. Liu, X. Li, **B. Ning**, C. Huang, S. Sun and C. Yuen, "[Deep Learning-Based Channel Estimation for Double-RIS Aided Massive MIMO System](https://ieeexplore.ieee.org/document/9930847)," IEEE Wireless Commun. Lett., vol. 12, no. 1, pp. 70-74, Jan. 2023.
 - ``IEEE TVT 2023`` S. Xie, L. Li, Z. Chen, **B. Ning**, W. Chen and S. Li, "[Improving THz Transmission Distance for Delay-Sensitive Services via Mobile Computing](https://ieeexplore.ieee.org/document/9907884)," IEEE Trans. Veh. Technol., vol. 72, no. 2, pp. 2051-2065, Feb. 2023.
 
-<hr style="border: 3px dashed #B22222;" />
+<hr style="border: 2px dashed #B22222;" />
 <h2 style="color: darkred;"> 👣 Collaborated Conference:</h2>
 - ``IEEE ICC 2024`` D. Wang, W. Mei, Z. Chen and **B. Ning**, "[Performance Analysis and Reflection Optimization for Wideband THz Double-IRS Aided Wireless Communications](https://ieeexplore.ieee.org/document/10622715)," IEEE Intl. Conf. Commun. (ICC), Denver, CO, USA, 2024.
 - ``IEEE WCNC 2024`` S. Cao, L. Zhu, X. Pi, Z. Xiao and **B. Ning**, "[Channel Estimation for Movable Antenna Communication Systems Based on Compressed Sensing](https://ieeexplore.ieee.org/document/10571235)," IEEE Wireless Commun. Networking Conf. (WCNC), Dubai, United Arab Emirates, 2024, pp. 1-6.
