@@ -1,7 +1,7 @@
 # 🗓️ Invited Events
 
-- *2025.06.08*, **IEEE International Conference on Communications (ICC) workshop**-IMRAFWCS **General Chair**
-- *2024.12.08*, **IEEE Global Communications Conference (GLOBECOM) workshop**-IRAFWCC **General Chair**
+- *2025.06.08*, **IEEE International Conference on Communications (ICC)** Workshop-IMRAFWCS **General Chair**
+- *2024.12.08*, **IEEE Global Communications Conference (GLOBECOM)** Workshop-IRAFWCC **General Chair**
 - *2024.10.26*, **International Collegiate Programming Contest (ICPC)** -- 国际大学生程序设计竞赛特邀报告《无线通信未来技术展望》
 - *2024.10.10*, **University of Electronic Science and Technology of China** -- 电子科技大学研究生讲堂《5G多天线技术》
 - *2023.11.02*, **IEEE Wireless Communications and Signal Processing (WCSP)** Symposium **TPC Member**
