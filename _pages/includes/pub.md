@@ -44,7 +44,7 @@
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
-[10] [Beamforming Technologies for Ultra-Massive MIMO in Terahertz Communications](https://ieeexplore.ieee.org/document/10045774) 🚀 IEEE Featured Paper ❤️‍🔥 IEEE Popular Article\\
+[10] [Beamforming Technologies for Ultra-Massive MIMO in Terahertz Communications](https://ieeexplore.ieee.org/document/10045774) 🚀 IEEE Featured Journal Article ❤️‍🔥 IEEE Popular Article\\
 🧑‍🎓  **Boyu Ning**, Zhongbao Tian, Weidong Mei, Zhi Chen, Chong Han, Shaoqian Li, Jinhong Yuan, Rui Zhang
   
 - **Abstract**: <details>Terahertz (THz) communications with a frequency band 0.1 – 10 THz are envisioned as a promising solution to future high-speed wireless communication. Although with tens of gigahertz available bandwidth, THz signals suffer from severe free-spreading loss and molecular-absorption loss, which limit the wireless transmission distance. To compensate for the propagation loss, the ultra-massive multiple-input-multiple-output (UM-MIMO) can be applied to generate a high-gain directional beam by beamforming technologies. In this paper, a review of beamforming technologies for THz UM-MIMO systems is provided. Specifically, we first present the system model of THz UM-MIMO and identify its channel parameters and architecture types. Then, we illustrate the basic principles of beamforming via UM-MIMO and discuss the far-field and near-field assumptions in THz UM-MIMO. Moreover, an important beamforming strategy in THz band, i.e., beam training, is introduced wherein the beam training protocol and codebook design approaches are summarized. The intelligent-reflecting-surface (IRS)-assisted joint beamforming and multi-user beamforming in THz UM-MIMO systems are studied, respectively. The spatial-wideband effect and frequency-wideband effect in the THz beamforming are analyzed and the corresponding solutions are provided. Further, we present the corresponding fabrication techniques and illuminate the emerging applications benefiting from THz beamforming. Open challenges and future research directions on THz UM-MIMO systems are finally highlighted.</details>
@@ -238,10 +238,10 @@
 </div>
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
+  <div class='paper-box-image' style="text-align: center;">
     <div>
       <div class="badge">IEEE GLOBECOM</div>
-      <img src='images/conf/C6.PNG' width="100%">
+      <img src='images/conf/C6.PNG' width="80%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -289,10 +289,10 @@
 </div>
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
+  <div class='paper-box-image' style="text-align: center;">
     <div>
       <div class="badge">IEEE ICC</div>
-      <img src='images/conf/C3.PNG' width="100%">
+      <img src='images/conf/C3.PNG' width="90%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
