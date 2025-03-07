@@ -48,13 +48,13 @@
 - **First-Class Academic Scholarship** (Top 5% of PhD students in the college), 31/12/2021  
   人民一等奖学金 (博士生Top 5%)
 
-- **China Scholarship Council (CSC) Scholarship**, 06/07/2021  
+- **China Scholarship Council (CSC) Scholarship** (University of Electronic Science and Technology of China), 06/07/2021  
   中国国家留学基金委 - CSC奖学金 
 
-- **Huawei Institute - Talent Show First Place**, 18/12/2018  
+- **Huawei Institute - Talent Show First Place** (University of Electronic Science and Technology of China), 18/12/2018  
   电子科技大学 - 第九届达人秀总决赛 第一名
 
-  - **Tang Lixin Scholarship** (Top 0.3% in the entire university), 01/12/2018  
+- **Tang Lixin Scholarship** (Top 0.3% in the entire university), 01/12/2018  
   唐立新奖学金 (全校Top 0.3%)
 
 - **Twelfth National Campus Talent Competition - First Prize** (Sichuan Provincial Department of Culture), 01/06/2016  
