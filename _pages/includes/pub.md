@@ -241,7 +241,7 @@
   <div class='paper-box-image' style="text-align: center;">
     <div>
       <div class="badge">IEEE GLOBECOM</div>
-      <img src='images/conf/C6.PNG' width="80%">
+      <img src='images/conf/C6.PNG' width="90%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -292,7 +292,7 @@
   <div class='paper-box-image' style="text-align: center;">
     <div>
       <div class="badge">IEEE ICC</div>
-      <img src='images/conf/C3.PNG' width="90%">
+      <img src='images/conf/C3.PNG' width="95%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
