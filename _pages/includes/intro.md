@@ -5,10 +5,10 @@ I am currently working at Huawei as a research **Principle Engineer** in RAN Res
 My work is primarily focused on the standardization for **3GPP Release 20/21 physical layer MIMO air interface technologies**, which mainly include the evolution of the following key components:
 <div style="background-color: #f8f8f8; padding: 10px;">
 <div markdown="1">  
-- Sounding Reference Signals (SRS) ✅
-- Channel State Information Reference Signals (CSI-RS) ✅
-- Codebook Framework Design ✅
-- PMI (Precoding Matrix Indicator) Feedback Mechanisms ✅
+- Sounding Reference Signals (SRS) ☘️
+- Channel State Information Reference Signals (CSI-RS) ☘️
+- Codebook Framework Design ☘️
+- PMI (Precoding Matrix Indicator) Feedback Mechanisms ☘️
 </div>
 </div>
 In addition to my technical responsibilities, I also serve as the **Technical Leader** for exploratory projects in the following emerging areas:
