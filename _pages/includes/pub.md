@@ -1,5 +1,7 @@
 # 📝 Publications 
-<hr style="border: 2px solid #B22222;" />
+
+<div style="background-color: #f0f8ff; padding: 10px; border: 1px solid #add8e6; border-radius: 5px;">
+
 <h2 style="color: darkred;">🖊️ First-Author Journals:</h2>
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -199,8 +201,9 @@
 - **IEEE Bibtex**：B. Ning, Z. Chen, X. Wang and W. Mei, "Codebook-Based Hybrid Beamforming Design for MISOME Wiretap Channel," IEEE Wireless Commun. Lett., vol. 8, no. 1, pp. 57-60, Feb. 2019.
 </div>
 </div>
+//框分割
+</div>
 
-<hr style="border: 3px dashed #B22222;" />
 <h2 style="color: darkred;">🀄 First-Author Conference:</h2>
    
 <div class='paper-box'>
