@@ -4,7 +4,6 @@ I am currently working at Huawei <img src='./images/huawei.png' style='width: 1.
 
 My work is primarily focused on the standardization for **3GPP Release 20/21 physical layer MIMO air interface technologies**, which mainly include the evolution of the following key components:
 
-- Demodulation Reference Signals (DMRS)
 - Sounding Reference Signals (SRS)
 - Channel State Information Reference Signals (CSI-RS)
 - Codebook Framework Design
