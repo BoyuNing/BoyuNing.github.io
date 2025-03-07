@@ -1,7 +1,6 @@
 # 📝 Publications 
 
-<h2 style="color: darkred;">🖊️ First-Author Journals</h2>
-
+<h2 style="color: darkred;">🖊️ First-Author Journals:</h2>
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -201,7 +200,7 @@
 </div>
 </div>
 
-<h2 style="color: darkred;">🀄 First-Author Conference</h2>
+<h2 style="color: darkred;">🀄 First-Author Conference:</h2>
    
 <div class='paper-box'>
   <div class='paper-box-image' style="text-align: center;">
@@ -339,18 +338,46 @@
 </div>
 </div>
 
-<h2 style="color: darkred;">🧑‍🎨 Supervised Paper (Corresponding-Author)</h2>
+<h2 style="color: darkred;"> 👨🏻‍🏫 Supervised Paper (Corresponding-Author):</h2>
 - `IEEE WCL 2025` Y. Sun, H. Xu, **B. Ning**, Z. Cheng, C. Ouyang and H. Yang, "[Sum-Rate Optimization for RIS-Aided Multiuser Communications With Movable Antennas](https://ieeexplore.ieee.org/document/10771791)," in IEEE Wireless Communications Letters, vol. 14, no. 2, pp. 450-454, Feb. 2025.
 - ``IEEE CL 2025`` Y. Sun, H. Xu, **B. Ning**, L. Zhu, C. Ouyang and H. Yang, "[STAR-RIS Aided Communication System with Movable Antennas Exploiting Statistical CSI](https://ieeexplore.ieee.org/document/10896641)," in IEEE Communications Letters, early access, doi: 10.1109/LCOMM.2025.3544059.
 
 
-<h2 style="color: darkred;"> 👨‍👩‍👧‍👦 Collaborated Journals</h2>
+<h2 style="color: darkred;"> 👨‍👩‍👧‍👦 Collaborated Journals:</h2>
 - ``IEEE TWC 2025`` S. Yang et al., "[Flexible Antenna Arrays for Wireless Communications: Modeling and Performance Evaluation](https://ieeexplore.ieee.org/document/10910066)," IEEE Trans. Wireless Commun., early access, doi: 10.1109/TWC.2025.3545305. 
 - ``IEEE ComS&T 2025`` L. Zhu et al., "[A Tutorial on Movable Antennas for Wireless Networks](https://ieeexplore.ieee.org/document/10906511),"  IEEE Communications Surveys & Tutorials, early access, doi: 10.1109/COMST.2025.3546373.
-- ``IEEE 2025`` 
-- ``IEEE 2025`` 
-- ``IEEE 2025`` 
-- ``IEEE 2025`` 
-- ``IEEE 2025`` 
-- ``IEEE 2025`` 
+- ``IEEE TVT 2025`` Y. Wang et al., "[Pre-Equalization Aided Grant-Free Massive Access in Massive MIMO System](https://ieeexplore.ieee.org/document/10891201)," IEEE Trans. Veh. Technol., early access, doi: 10.1109/TVT.2025.3541278. 
+- ``IEEE JSAC 2025`` Z. Gao, X. Zhou, **B. Ning**, Y. Su, T. Qin and D. Niyato, "[Integrated Location Sensing and Communication for Ultra-Massive MIMO With Hybrid-Field Beam-Squint Effect](https://ieeexplore.ieee.org/document/10886954)," IEEE J. Sel. Areas Commun., early access, doi: 10.1109/JSAC.2025.3531551. 
+- ``IEEE WCL 2025`` X. Zeng, J. Fang, B. Wang, **B. Ning** and H. Li, "[CSI-Free Position Optimization for Movable Antenna Communication Systems: A Derivative-Free Optimization Approach](https://ieeexplore.ieee.org/document/10736550)," IEEE Wireless Commun. Lett., vol. 14, no. 1, pp. 53-57, Jan. 2025.
+- ``IEEE WCL 2025`` N. Li, P. Wu, **B. Ning**, L. Zhu and W. Mei, "[Over-the-Air Computation via 2-D Movable Antenna Array](https://ieeexplore.ieee.org/document/10729877)," IEEE Wireless Commun. Lett., vol. 14, no. 1, pp. 33-37, Jan. 2025.
+- ``IEEE TVT 2025`` Y. Li et al., "[Robust and Secure Transmission Design for Reconfigurable Intelligent Surface Aided MU-SWIPT Systems With Hardware Impairments](https://ieeexplore.ieee.org/document/10726623)," IEEE Trans. Veh. Technol., vol. 74, no. 3, pp. 4669-4683, March 2025.
+- ``IEEE TVT 2024`` H. Hui, Y. Zou, Y. Li, L. Zhai and **B. Ning**, "[Robust Beamforming Design for RIS-Assisted Cognitive Radio Systems With Hardware Impairments](https://ieeexplore.ieee.org/document/10634817)," IEEE Trans. Veh. Technol., vol. 73, no. 12, pp. 19080-19095, Dec. 2024.
+- ``IEEE TVT 2024`` W. Chen, L. Li, Z. Chen, Y. Liu, **B. Ning** and T. Q. S. Quek, "[ISAC-Enabled Beam Alignment for Terahertz Networks: Scheme Design and Coverage Analysis](https://ieeexplore.ieee.org/document/10633859)," IEEE Trans. Veh. Technol.,, vol. 73, no. 12, pp. 19019-19033, Dec. 2024.
+- ``IEEE WCL 2024`` X. Wei, W. Mei, D. Wang, **B. Ning** and Z. Chen, "[Joint Beamforming and Antenna Position Optimization for Movable Antenna-Assisted Spectrum Sharing](https://ieeexplore.ieee.org/document/10579873)," IEEE Wireless Commun. Lett., vol. 13, no. 9, pp. 2502-2506, Sept. 2024.
+- ``IEEE WCL 2024`` N. Li, P. Wu, **B. Ning** and L. Zhu, "[Sum Rate Maximization for Movable Antenna Enabled Uplink NOMA](https://ieeexplore.ieee.org/document/10535440)," IEEE Wireless Commun. Lett., vol. 13, no. 8, pp. 2140-2144, Aug. 2024.
+- ``IEEE WCL 2024`` W. Mei, X. Wei, **B. Ning**, Z. Chen and R. Zhang, "[Movable-Antenna Position Optimization: A Graph-Based Approach](https://ieeexplore.ieee.org/document/10508218)," IEEE Wireless Commun. Lett., vol. 13, no. 7, pp. 1853-1857, July 2024.
+- ``IEEE JSAC 2024`` S. Yang, C. Xie, W. Lyu, **B. Ning**, Z. Zhang and C. Yuen, "[Near-Field Channel Estimation for Extremely Large-Scale Reconfigurable Intelligent Surface (XL-RIS)-Aided Wideband mmWave Systems](https://ieeexplore.ieee.org/document/10500431)," IEEE J. Sel. Areas Commun., vol. 42, no. 6, pp. 1567-1582, June 2024.
+- ``IEEE TWC 2024`` Z. Xiao et al., "[Channel Estimation for Movable Antenna Communication Systems: A Framework Based on Compressed Sensing](https://ieeexplore.ieee.org/document/10497534)," IEEE Trans. Wireless Commun., vol. 23, no. 9, pp. 11814-11830, Sept. 2024.
+- ``IEEE WCL 2024`` Y. Zhang et al., "[Rate-Splitting Multiple Access for Covert Communications](https://ieeexplore.ieee.org/document/10495329)," IEEE Wireless Commun. Lett., vol. 13, no. 6, pp. 1685-1689, June 2024. 
+- ``IEEE TWC 2024`` K. Wang et al., "[Knowledge and Data Dual-Driven Channel Estimation and Feedback for Ultra-Massive MIMO Systems Under Hybrid Field Beam Squint Effect](https://ieeexplore.ieee.org/document/10486834)," IEEE Trans. Wireless Commun.,  vol. 23, no. 9, pp. 11240-11259, Sept. 2024.
+- ``IEEE WCL 2024`` S. Yang, W. Lyu, **B. Ning**, Z. Zhang and C. Yuen, "[Flexible Precoding for Multi-User Movable Antenna Communications](https://ieeexplore.ieee.org/document/10458417)," IEEE Wireless Commun. Lett., vol. 13, no. 5, pp. 1404-1408, May 2024.
+- ``IEEE WCM 2024`` L. Li, W. Chen, Z. Chen, T. Hu, W. Mei and **B. Ning**, "[Enhancing Terahertz Communications Coverage with ISAC-Assisted Beam Management](https://ieeexplore.ieee.org/document/10438962)," IEEE Wireless Commun., vol. 31, no. 1, pp. 34-40, Feb. 2024.
+- ``IEEE WCL 2024`` Y. Li, Y. Zou, H. Hui, J. Zhu and **B. Ning**, "[Improving Computing Capability for Active RIS-Assisted NOMA-MEC Networks](https://ieeexplore.ieee.org/document/10391072)," IEEE Wireless Commun. Lett., vol. 13, no. 4, pp. 939-943, April 2024.
+- ``IEEE TWC 2024`` L. Zhu, W. Ma, **B. Ning** and R. Zhang, "[Movable-Antenna Enhanced Multiuser Communication via Antenna Position Optimization](https://ieeexplore.ieee.org/document/10354003)," IEEE Trans. Wireless Commun.,  vol. 23, no. 7, pp. 7214-7229, July 2024.
+- ``IEEE TVT 2024`` Y. Zhang, **B. Ning**, W. Ni, J. Wang, W. Tang and D. Niyato, "[Exploiting Faster-Than-Nyquist Signaling for MIMO Covert Communications: A Low-Complexity Design](https://ieeexplore.ieee.org/document/10336559)," IEEE Trans. Veh. Technol., vol. 73, no. 5, pp. 7322-7327, May 2024.
+- ``IEEE CL 2024`` Y. Li et al., "[Sum Secrecy Rate Maximization for Active RIS-Assisted Uplink SIMO-NOMA Networks](https://ieeexplore.ieee.org/document/10275057)," IEEE Commun. Lett., vol. 28, no. 3, pp. 722-726, March 2024.
+- ``IEEE TVT 2023`` Y. Li, Y. Zou, H. Guo, J. Zhu and **B. Ning**, "[Joint Power Allocation and Passive Beamforming for RIS-Assisted Wireless Energy-Constrained Systems With Multi-User Scheduling](https://ieeexplore.ieee.org/document/10149523)," IEEE Trans. Veh. Technol., vol. 72, no. 11, pp. 15109-15114, Nov. 2023.
+- ``IEEE TVT 2023`` H. Huang et al., "[Two-Timescale-Based Beam Training for RIS-Aided Millimeter-Wave Multi-User MISO Systems](https://ieeexplore.ieee.org/document/10106469)," IEEE Trans. Veh. Technol., vol. 72, no. 9, pp. 11884-11897, Sept. 2023.
+- ``IEEE WCL 2023`` Y. Xie, **B. Ning**, L. Li and Z. Chen, "[Near-Field Beam Training in THz Communications: The Merits of Uniform Circular Array](https://ieeexplore.ieee.org/document/10005200)," IEEE Wireless Commun. Lett., vol. 12, no. 4, pp. 575-579, April 2023.
+- ``IEEE WCL 2023`` M. Liu, X. Li, **B. Ning**, C. Huang, S. Sun and C. Yuen, "[Deep Learning-Based Channel Estimation for Double-RIS Aided Massive MIMO System](https://ieeexplore.ieee.org/document/9930847)," IEEE Wireless Commun. Lett., vol. 12, no. 1, pp. 70-74, Jan. 2023.
+- ``IEEE TVT 2023`` S. Xie, L. Li, Z. Chen, **B. Ning**, W. Chen and S. Li, "[Improving THz Transmission Distance for Delay-Sensitive Services via Mobile Computing](https://ieeexplore.ieee.org/document/9907884)," IEEE Trans. Veh. Technol., vol. 72, no. 2, pp. 2051-2065, Feb. 2023.
+
+<h2 style="color: darkred;"> 👣 Collaborated Conference:</h2>
+- ``IEEE ICC 2024`` D. Wang, W. Mei, Z. Chen and **B. Ning**, "[Performance Analysis and Reflection Optimization for Wideband THz Double-IRS Aided Wireless Communications](https://ieeexplore.ieee.org/document/10622715)," IEEE Intl. Conf. Commun. (ICC), Denver, CO, USA, 2024.
+- ``IEEE WCNC 2024`` S. Cao, L. Zhu, X. Pi, Z. Xiao and **B. Ning**, "[Channel Estimation for Movable Antenna Communication Systems Based on Compressed Sensing](https://ieeexplore.ieee.org/document/10571235)," IEEE Wireless Commun. Networking Conf. (WCNC), Dubai, United Arab Emirates, 2024, pp. 1-6.
+- ``IEEE GLOBECOM 2023`` W. Chen, L. Li, **B. Ning**, Z. Chen and T. Q. S. Quek, "[Sensing Resource Allocation for Enlarging the Coverage Range of ISAC-Based Terahertz Network](https://ieeexplore.ieee.org/document/10437749)," IEEE Global Communications Conference, Kuala Lumpur, Malaysia, 2023, pp. 3639-3644.
+- ``IEEE SPAWC 2023`` L. Zhu, W. Ma,**B. Ning** and R. Zhang, "[Multiuser Communication Aided by Movable ](https://ieeexplore.ieee.org/document/10304448)," IEEE Signal Processing Advances in Wireless Commun. (SPAWC), Shanghai, China, 2023, pp. 531-535.
+- ``IEEE ICC 2021``  Z. Tian, Z. Chen and B. Ning, "[3D Beam Training in Terahertz Communication: A Quadruple-UPA Architecture](https://ieeexplore.ieee.org/document/9473577)," IEEE Intl. Conf. Commun. (ICC), Montreal, QC, Canada, 2021, pp. 1-6.
+- ``IEEE GLOBECOM 2019`` W. Chen, Z. Chen, B. Ning and J. Fang, "[Artificial Noise Aided Hybrid Precoding Design for Secure mmWave MIMO System](https://ieeexplore.ieee.org/document/9013417)," IEEE Global Communications Conference, Waikoloa, HI, USA, 2019, pp. 1-6.
+- ``IEEE SPAWC 2017`` W. Mei, Z. Chen, J. Fang and B. Ning, "[Energy efficiency optimization for MISO wiretap channels with statistical and imperfect CSI](https://ieeexplore.ieee.org/document/8227734)," IEEE Signal Processing Advances in Wireless Commun. (SPAWC), Sapporo, Japan, 2017, pp. 1-6.
 
