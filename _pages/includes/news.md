@@ -1,11 +1,11 @@
 # 🔥 News
 <div class='paper-box'>
-<div class="paper-box-image" style="display: flex; align-items: stretch; justify-content: center; gap: 10px;">
+<div class="paper-box-image" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <div style="flex: 1;">
-    <img src="images/news.png" alt="News 1" style="height: 30px; width: auto;">
+    <img src="images/news.png" alt="News 1" style="height: 200px; width: auto;">
   </div>
   <div style="flex: 1;">
-    <img src="images/news2.png" alt="News 2" style="height: 30px; width: auto;">
+    <img src="images/news2.png" alt="News 2" style="height: 200px; width: auto;">
   </div>
 </div>
 
