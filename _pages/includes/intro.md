@@ -20,7 +20,9 @@ In addition to my technical responsibilities, I also serve as the **Technical Le
 - Channel Graph-Assisted Communication Technologies ❤️
 </div>
 </div>
-At Huawei, I focused on the technology research and standardization of MIMO for **5G Advanced and 6G**, which enabled me to accumulate substantial experience in **translating academic knowledge into industrial applications**. I actively keep pace with the latest advancements in academic research, particularly in areas such as **terahertz communications**, **ultra-massive MIMO**, **movable antenna systems**, **intelligent reflecting surfaces (IRS)**, and **integrated sensing and communication (ISAC)**. If you are seeking any form of **academic collaboration**🤝, please feel free to email me at [boydning@outlook.com](mailto:boydning@outlook.com)📩. 
+At Huawei, I focused on the technology research and standardization of MIMO for **5G Advanced and 6G**, which enabled me to accumulate substantial experience in **translating academic knowledge into industrial applications**. I actively keep pace with the latest advancements in academic research, particularly in areas such as **terahertz communications**, **ultra-massive MIMO**, **movable antenna systems**, **intelligent reflecting surfaces (IRS)**, and **integrated sensing and communication (ISAC)**. 
+
+If you are seeking any form of **academic collaboration**🤝, please feel free to email me at [boydning@outlook.com](mailto:boydning@outlook.com)📩. 
 
 <h2 style="color: darkred;">Personal Experience</h2>
 
