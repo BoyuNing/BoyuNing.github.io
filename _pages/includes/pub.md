@@ -112,7 +112,7 @@
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
-[6] [Intelligent Reflecting Surface Assisted Terahertz Communications Toward 6G](https://ieeexplore.ieee.org/document/9690477) 👬Co-first\\
+[6] [Intelligent Reflecting Surface Assisted Terahertz Communications Toward 6G](https://ieeexplore.ieee.org/document/9690477) 👬\\
 🧑‍🎓  **Boyu Ning**, Zhi Chen, Chong Han, Zhongbao Tian, Shaoqian Li
   
 - **Abstract**: <details>Terahertz (THz) communications have emerged as a promising candidate to support the heavy data traffic and exploding network capacity in the future 6G wireless networks. However, THz communications face many challenges for practical implementation, such as propagation loss, signal blockage, and hardware cost. In this article, an emerging paradigm of intelligent reflecting surface (IRS)-assisted THz communications is analyzed to address the above issues by leveraging joint active and passive beamforming to enhance the communication quality and reduce overhead. Aimed at practical implementation, an overview of the currently available approaches of realizing THz active/passive beam steering at the transmitter and IRS is presented. Based on these approaches, a beam training strategy for establishing joint beamforming is then investigated in THz communications. Moreover, various emerging and appealing 6G scenarios that integrate IRS into THz communications are envisioned. Open challenges and future research directions for this new paradigm are finally highlighted.</details>
