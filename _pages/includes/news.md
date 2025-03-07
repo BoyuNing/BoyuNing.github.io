@@ -5,7 +5,7 @@
     <img src="images/news.png" width="90%">
   </div>
   <div style="flex: 1;">
-    <img src="images/news.png" width="90%">
+    <img src="images/news2.png" width="90%">
   </div>
   </div>
 
