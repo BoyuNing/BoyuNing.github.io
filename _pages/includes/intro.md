@@ -1,6 +1,6 @@
 <h1 style="color: darkred;">About Me</h1>
 
-I am currently working at Huawei <img src='./images/huawei.png' style='width: 1.5em;'> as a research **Principle Engineer** in RAN Research Department II. 
+I am currently working at Huawei as a research **Principle Engineer** in RAN Research Department II. 
 
 My work is primarily focused on the standardization for **3GPP Release 20/21 physical layer MIMO air interface technologies**, which mainly include the evolution of the following key components:
 
