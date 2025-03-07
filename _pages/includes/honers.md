@@ -43,7 +43,7 @@
   IEEE ComSoC - 3mins论文报告竞赛三等奖🥉
 
 - **Outstanding Top 10 Students** (University of Electronic Science and Technology of China, Top 0.1% of the university), 01/12/2022  
-  电子科技大学 - 成电杰出学生 (学生个人最高荣誉，全校Top 0.1%)🏆
+  电子科技大学 - 成电杰出学生 (电子科大学生最高荣誉，全校Top 0.1%)🏆
 
 - **Outstanding Graduate Award** (University of Electronic Science and Technology of China, Top 2% of the university), 01/12/2022  
   电子科技大学 - 优秀毕业生 (全校Top 2%)🌟
