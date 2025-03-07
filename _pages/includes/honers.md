@@ -1,9 +1,9 @@
 # 🎖️ Honors and Awards 
 
-- **MSCA Postdoctoral Fellowships Grant** (Research Executive Agency of European Commission), 10/02/2025
+- **MSCA Postdoctoral Fellowships Grant** (Research Executive Agency of European Commission), 10/02/2025   
   欧盟委员会 - 玛丽居里学者基金💰 
 
-- **Outstanding Doctoral Dissertation Award** (Chinese Society of Electronics Education), 06/01/2025
+- **Outstanding Doctoral Dissertation Award** (Chinese Society of Electronics Education), 06/01/2025   
   中国电子教育学会 - 优秀博士论文奖 (全国每年20人)🏆
 
 - **AI General Competency Certificate** (Huawei Research Institute), 20/12/2024  
@@ -66,7 +66,7 @@
 - **Second Place in the 7th Edition Talent Show** (University of Electronic Science and Technology of China), 18/12/2018  
   电子科技大学 - 第七届达人秀总决赛 第二名🥈
   
-- **First Place in the 36th Edition Swimming Competition** (University of Electronic Science and Technology of China),  04/11/2017
+- **First Place in the 36th Edition Swimming Competition** (University of Electronic Science and Technology of China),  04/11/2017   
   电子科技大学 - 第三十六届游泳大赛男子50米蛙泳 第一名🥇
   
 - **Twelfth National Campus Talent Competition - First Prize** (Sichuan Provincial Department of Culture), 01/06/2016  
