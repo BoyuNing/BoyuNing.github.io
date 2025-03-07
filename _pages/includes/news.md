@@ -13,8 +13,8 @@
 </div>
 
 <div class='paper-box-text' markdown="1">
-- *2025.01.19*: I am a special guest for Popping competition🎉 
-- *2025.01.07*: I am an actor for Huawei Annual Ceremony🎉 
+- *2025.01.19*: I am a Special Guest for Popping Competition🎉 
+- *2025.01.07*: I am an Monkey King in Huawei Annual Ceremony🎉 
 </div>
 </div>
 
