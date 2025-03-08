@@ -33,7 +33,7 @@
 - **Outstanding Graduate Award** (Sichuan Provincial Department of Education), 01/06/2023  
   四川省教育厅 - 优秀大学毕业生🌟
 
-- **Academic Rising Star Award** (University of Electronic Science and Technology of China), 01/06/2023  
+- **Academic Rising Star Award** (UESTC), 01/06/2023  
   电子科技大学 - 学术新秀奖🏆
 
 - **Best Poster Award** (Terahertz Communication Technology Forum, China), 27/05/2023  
@@ -42,38 +42,38 @@
 - **Third Prize in 2023 Three Minute Thesis Competition** (IEEE ComSoc), 30/05/2023  
   IEEE ComSoC - 3mins论文报告竞赛三等奖🥉
 
-- **Outstanding Top 10 Students** (University of Electronic Science and Technology of China, Top 0.1% of the university), 01/12/2022  
+- **Outstanding Top 10 Students** (UESTC, Top 0.1% of the university), 01/12/2022  
   电子科技大学 - 成电杰出学生 (电子科大学生最高荣誉，全校Top 0.1%)🏆
 
-- **Outstanding Graduate Award** (University of Electronic Science and Technology of China, Top 2% of the university), 01/12/2022  
+- **Outstanding Graduate Award** (UESTC, Top 2% of the university), 01/12/2022  
   电子科技大学 - 优秀毕业生 (全校Top 2%)🌟
 
-- **National Scholarship** (Top 2% of PhD students in the college), 31/12/2021  
+- **National Scholarship** (Top 2% of PhD students in UESTC), 31/12/2021  
   中华人民共和国教育部 - 国家奖学金 (博士生Top 2%)💰
 
-- **First-Class Academic Scholarship** (Top 5% of PhD students in the college), 31/12/2021  
+- **First-Class Academic Scholarship** (Top 5% of PhD students in UESTC), 31/12/2021  
   电子科技大学 - 人民一等奖学金 (博士生Top 5%)💰 
 
-- **China Scholarship Council (CSC) Scholarship** (University of Electronic Science and Technology of China), 06/07/2021  
+- **China Scholarship Council (CSC) Scholarship** (UESTC), 06/07/2021  
   中国国家留学基金委 - CSC奖学金💰 
 
-- **First Place in the 9th Edition Talent Show** (University of Electronic Science and Technology of China), 18/12/2018  
+- **First Place in the 9th Edition Talent Show** (UESTC), 18/12/2018  
   电子科技大学 - 第九届达人秀总决赛 第一名🥇
 
 - **Tang Lixin Scholarship** (Top 0.3% of the university), 01/12/2018  
   新尚集团 - 唐立新奖学金 (企业奖学金最高荣誉，全校Top 0.3%)💰 
 
-- **Second Place in the 7th Edition Talent Show** (University of Electronic Science and Technology of China), 18/12/2018  
+- **Second Place in the 7th Edition Talent Show** (UESTC), 18/12/2018  
   电子科技大学 - 第七届达人秀总决赛 第二名🥈
   
-- **First Place in the 36th Edition Swimming Competition** (University of Electronic Science and Technology of China),  04/11/2017   
+- **First Place in the 36th Edition Swimming Competition** (UESTC),  04/11/2017   
   电子科技大学 - 第三十六届游泳大赛男子50米蛙泳 第一名🥇
   
 - **Twelfth National Campus Talent Competition - First Prize** (Sichuan Provincial Department of Culture), 01/06/2016  
   四川省文化厅 - 第十二届全国校园才艺选拔赛 第一名🥇
 
-- **Campus Image Ambassador Competition - Best Talent Award** (University of Electronic Science and Technology of China), 19/11/2015  
+- **Campus Image Ambassador Competition - Best Talent Award** (UESTC), 19/11/2015  
   电子科技大学 - 校园形象大使大赛 最佳才艺奖⭐
 
-- **Fourth Sports Meeting - Men's High Jump First Place** (University of Electronic Science and Technology of China), 29/09/2014  
+- **Fourth Sports Meeting - Men's High Jump First Place** (UESTC), 29/09/2014  
   电子科技大学 - 第四十七届运动会男子跳高 第一名🥇
