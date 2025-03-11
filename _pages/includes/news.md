@@ -14,7 +14,7 @@
 
 <div class='paper-box-text' markdown="1">
 - *2025.01.19*: I am a Special Guest for Popping Competition🎉 
-- *2025.01.07*: I am an Monkey King in Huawei Annual Ceremony🎉 
+- *2025.01.07*: I am the Monkey King in Huawei Annual Ceremony🎉 
 </div>
 </div>
 
