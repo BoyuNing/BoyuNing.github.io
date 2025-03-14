@@ -5,10 +5,9 @@
 
 - **Outstanding Doctoral Dissertation Award** (Chinese Society of Electronics Education), 06/01/2025   
   中国电子教育学会 - 优秀博士论文奖 (全国每年20人)🏆
-
+  
 <!--- **AI General Competency Certificate** (Huawei Research Institute), 20/12/2024  -->
   <!--华为研究所 - AI通用能力证书🪪-->
-
 - **First Place in Lion King Challenge Talent Show** (Huawei Research Institute), 19/11/2024  
   华为研究所 - 狮王争霸达人秀 第一名🥇
 
