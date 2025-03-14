@@ -28,7 +28,7 @@
   华为研究所 - 华为算法类预研专业级认证🪪
 
 - **Huawei Top Minds Certification** (Huawei Research Institute), 01/07/2023  
-  华为研究所 - 华为天才少年计划认证🏆
+  华为研究所 - 华为天才少年计划证书🏆
 
 - **Instructor of Academic Pilot Program** (Yingcai Honors College), 10/06/2023  
   电子科技大学英才学院 - 英才学院学术导师🪪
