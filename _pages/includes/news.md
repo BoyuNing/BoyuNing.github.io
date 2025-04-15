@@ -8,7 +8,7 @@
     <img src="images/new415.png" alt="News 1" style="height: 200px; width: auto;">
   </div>
   <div style="flex: 1;">
-    <img src="images/news2.png" alt="News 2" style="height: 200px; width: auto;">
+    <img src="images/news.png" alt="News 2" style="height: 200px; width: auto;">
   </div>
 </div>
 
