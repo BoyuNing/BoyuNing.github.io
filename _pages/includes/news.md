@@ -5,7 +5,7 @@
        
   </div>
   <div style="flex: 1;">
-    <img src="images/news.png" alt="News 1" style="height: 200px; width: auto;">
+    <img src="images/new415.png" alt="News 1" style="height: 200px; width: auto;">
   </div>
   <div style="flex: 1;">
     <img src="images/news2.png" alt="News 2" style="height: 200px; width: auto;">
@@ -13,8 +13,8 @@
 </div>
 
 <div class='paper-box-text' markdown="1">
+- *2025.04.11*: I made a B-Box show in Huawei IRB Ceremony🎉 
 - *2025.01.19*: I am a Special Guest for Popping Competition🎉 
-- *2025.01.07*: I am the Monkey King in Huawei Annual Ceremony🎉 
 </div>
 </div>
 
