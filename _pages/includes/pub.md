@@ -5,7 +5,7 @@
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">IEEE TWC</div>
+      <div class="badge">IEEE WCM</div>
       <img src='images/journal/J13.PNG' width="100%">
     </div>
   </div>
