@@ -1,6 +1,24 @@
 # 📝 Publications 
 
 <h2 style="color: darkred;">🖊️ First-Author Journals:</h2>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE TWC</div>
+      <img src='images/journal/J13.PNG' width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+[13] [Movable Antenna-Enhanced Wireless Communications: General Architectures and Implementation Methods](https://ieeexplore.ieee.org/abstract/document/11007274) \\
+🧑‍🎓  **Boyu Ning**, Songjie Yang, Yafei Wu, Peilan Wang, Weidong Mei, Chau Yuen, Emil Björnson
+  
+- **Abstract**: <details>Movable antennas (MAs), traditionally explored in antenna design, have recently garnered significant attention in wireless communications due to their ability to dynamically adjust the antenna positions to changes in the propagation environment. However, previous research has primarily focused on characterizing the performance limits of various MA-assisted wireless communication systems with less emphasis on their practical implementation. To address this gap, in this article, we propose several general MA architectures that extend existing designs by varying several key aspects to cater to different application scenarios and tradeoffs between cost and performance. Additionally, we draw from fields such as antenna design and mechanical control to provide an overview of candidate implementation methods for the proposed MA architectures, utilizing either direct mechanical or equivalent electronic control. Simulation results are finally presented to support our discussion.</details>
+
+- **IEEE Bibtex**：B. Ning, S. Yang, Y. Wu, P. Wang, W. Mei, C. Yuen and E. Björnson, "Movable Antenna-Enhanced Wireless Communications: General Architectures and Implementation Methods," IEEE Wireless Commun., early access, 2025, doi: 10.1109/MWC.013.2400238. 
+</div>
+</div>
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
