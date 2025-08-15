@@ -402,7 +402,7 @@
 
 <hr style="border: 2px dashed #B22222;" />
 <h2 style="color: darkred;"> 👣 Collaborated Conference:</h2>
-- ``IEEE ECIE 2025`` X. Wei, W. Mei, Q. Jia, D. Wang, Z. Chen and **B. Ning**, "[Super-Resolution Channel Estimation for Movable Antennas via Atomic Norm Minimization](https://ieeexplore.ieee.org/document/11087029)," International Conference on Electronics, Circuits and Information Engineering (ECIE), Guangzhou, China, 2025, pp. 145-148,
+- ``IEEE ECIE 2025`` X. Wei, W. Mei, Q. Jia, D. Wang, Z. Chen and **B. Ning**, "[Super-Resolution Channel Estimation for Movable Antennas via Atomic Norm Minimization](https://ieeexplore.ieee.org/document/11087029)," International Conference on Electronics, Circuits and Information Engineering (ECIE), Guangzhou, China, 2025.
 - ``IEEE WCNC 2025`` X. Wei, W. Mei, Q. Wu, **B. Ning** and Z. Chen,,  "[Movable Antennas Meet Intelligent Reflecting Surface: When Do We Need Movable Antennas?](https://ieeexplore.ieee.org/document/10978634)," IEEE Wireless Commun. Netw. Conf. (WCNC), Milan, Italy, 2025.
 - ``IEEE WCNC 2025`` S. Cao, L. Zhu, Z. Xiao and **B. Ning**,  "[Channel Estimation for Movable Antenna Aided Wideband Communication Systems](https://ieeexplore.ieee.org/document/10978584)," IEEE Wireless Commun. Netw. Conf. (WCNC), Milan, Italy, 2025.
 - ``IEEE WCNC 2025`` Z. Li, L. Zhu, Z. Xiao, **B. Ning** and D. B. da Costa, "[Multiuser Downlink NOMA Communication Enabled by Movable Antenna](https://ieeexplore.ieee.org/document/10978390)," IEEE Wireless Commun. Netw. Conf. (WCNC), Milan, Italy, 2025.
