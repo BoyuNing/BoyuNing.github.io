@@ -1,6 +1,6 @@
 # 🎖️ Honors and Awards
 
-- **Huawei Research Category Competency (HRCC) Certification - AL Algorithm** (Huawei Research Institute), 27/10/2023  
+- **Huawei Research Category Competency (HRCC) Certification - AI Algorithm** (Huawei Research Institute), 27/10/2023  
   华为研究所 - 华为AI算法预研专业级认证🪪
 
 - **MSCA Postdoctoral Fellowships Grant** (Research Executive Agency of European Commission), 10/02/2025   
