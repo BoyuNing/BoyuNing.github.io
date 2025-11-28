@@ -1,5 +1,8 @@
 # 🎖️ Honors and Awards
 
+- **Huawei Research Category Competency (HRCC) Certification - AL Algorithm** (Huawei Research Institute), 27/10/2023  
+  华为研究所 - 华为AI算法预研专业级认证🪪
+
 - **MSCA Postdoctoral Fellowships Grant** (Research Executive Agency of European Commission), 10/02/2025   
   欧盟委员会 - 玛丽居里学者基金💰 
 
@@ -16,15 +19,19 @@
 
 - **First Place in 2024 Wireless Algorithm Semifinal Competition** (Huawei), 15/08/2024  
   华为研究所 - 2024年无线AI算法大赛华为赛区 第一名🥇
-
-- **Rising Star Award** (Huawei Research Institute), 15/12/2023  
-  华为研究所 - 明日之星奖⭐
   
+<!-- 
+
 - **Eaglet Wings Award** (Huawei Research Institute), 10/02/2024  
   华为研究所 - 雏鹰展翅奖🏆 
+
+  - **Rising Star Award** (Huawei Research Institute), 15/12/2023  
+  华为研究所 - 明日之星奖⭐
   
-- **Huawei Research Category Competency (HRCC) Certification** (Huawei Research Institute), 01/09/2023  
-  华为研究所 - 华为算法类预研专业级认证🪪
+  -->
+  
+- **Huawei Research Category Competency (HRCC) Certification - Communication Algorithm** (Huawei Research Institute), 27/08/2023  
+  华为研究所 - 华为无线算法预研专业级认证🪪
 
 - **Huawei Top Minds Certification** (Huawei Research Institute), 01/07/2023  
   华为研究所 - 华为天才少年计划证书🏆
