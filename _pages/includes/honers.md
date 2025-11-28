@@ -15,7 +15,7 @@
   华为研究所 - 狮王争霸达人秀 第一名🥇
 
 - **Third Place in 2024 Wireless Algorithm Final Competition** (Huawei & University Alliance), 15/08/2024  
-  华为高校联盟 - 2024年无线AI算法大赛总决赛 季军🥉
+  华为高校联盟 - 2024年无线AI算法大赛总决赛 第三名🥉
 
 - **First Place in 2024 Wireless Algorithm Semifinal Competition** (Huawei), 15/08/2024  
   华为研究所 - 2024年无线AI算法大赛华为赛区 第一名🥇
