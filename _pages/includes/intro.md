@@ -18,6 +18,7 @@ In addition to my technical responsibilities, I also serve as the **Technical Le
 - Movable-Antenna Architecture Technologies ❤️
 - Ultra-Massive MIMO Full-Connected Hybrid Beamforming Technologies ❤️
 - Radio Profile-Assisted Communication Technologies ❤️
+- Dual-end AI Compression Feedback Network ❤️
 </div>
 </div>
 At Huawei, I focused on the technology research and standardization of MIMO for **5G Advanced and 6G**, which enabled me to accumulate substantial experience in **translating academic knowledge into industrial applications**. I actively keep pace with the latest advancements in academic research, particularly in areas such as **terahertz communications**, **ultra-massive MIMO**, **movable antenna systems**, **intelligent reflecting surfaces (IRS)**, and **integrated sensing and communication (ISAC)**. 
