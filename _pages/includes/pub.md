@@ -6,7 +6,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE COMST</div>
-      <img src='images/journal/J14.PNG' width="100%">
+      <img src='images/journal/J14.png' width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
