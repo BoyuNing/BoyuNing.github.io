@@ -16,5 +16,4 @@
 - *2025.04.11*: I made a B-Box show in Huawei IRB Ceremony🎉 
 - *2025.01.19*: I am a Special Guest for Popping Competition🎉 
 </div>
-</div>
 
