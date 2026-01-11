@@ -12,7 +12,7 @@
   <div style="flex: 1;">
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
       <li>
-        <strong>2025.10.20</strong>: Just had a super cool milestone at IEEE VTC – my first industry panel! Here's a glimpse of what we discussed:<br><br>
+        Just had a super cool milestone at IEEE VTC – my first industry panel! Here's a glimpse of what we discussed:<br><br>
         
         <strong>Title:</strong> The New Paradigm of Gigantic MIMO<br><br>
         
