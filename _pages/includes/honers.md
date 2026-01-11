@@ -1,4 +1,4 @@
-# 🎖️ Honors and Awards
+# 🎖️ Professional Honors
 
 - **Huawei Research Category Competency (HRCC) Certification - AI Algorithm** (Huawei Research Institute), 27/10/2023  
   华为研究所 - 华为AI算法预研专业级认证🪪
@@ -11,8 +11,6 @@
   
 <!--- **AI General Competency Certificate** (Huawei Research Institute), 20/12/2024  -->
   <!--华为研究所 - AI通用能力证书🪪-->
-- **First Place in Lion King Challenge Talent Show** (Huawei Research Institute), 19/11/2024  
-  华为研究所 - 狮王争霸达人秀 第一名🥇
 
 - **Third Place in 2024 Wireless Algorithm Final Competition** (Huawei & University Alliance), 15/08/2024  
   华为高校联盟 - 2024年无线AI算法大赛总决赛 第三名🥉
@@ -66,14 +64,23 @@
 - **China Scholarship Council (CSC) Scholarship** (UESTC), 06/07/2021  
   中国国家留学基金委 - CSC奖学金💰 
 
-- **First Place in the 9th Edition Talent Show** (UESTC), 18/12/2018  
-  电子科技大学 - 第九届达人秀总决赛 第一名🥇
-
 - **Tang Lixin Scholarship** (Top 0.3% of the university), 01/12/2018  
   新尚集团 - 唐立新奖学金 (企业奖学金最高荣誉，全校Top 0.3%)💰 
 
-- **Second Place in the 7th Edition Talent Show** (UESTC), 18/12/2018  
-  电子科技大学 - 第七届达人秀总决赛 第二名🥈
+
+  # 🏆 Talent Awards
+
+  - **First Place in the 4th Huawei Talent Show** (Huawei Research Institute), 19/11/2024  
+  华为研究所 - 第四届华为达人秀总决赛 第一名🥇
+
+ - **First Place in the 9th Edition Hiphop Night Battle** (National University of Singapore), 15/04/2022  
+  新加坡国立大学 - 第九届Hiphop Night街舞大赛 第一名🥇
+
+  - **First Place in the 9th Edition Talent Show** (UESTC), 18/12/2018  
+  电子科技大学 - 第九届科大达人秀总决赛 第一名🥇
+
+  - **Second Place in the 7th Edition Talent Show** (UESTC), 18/12/2018  
+  电子科技大学 - 第七届科大达人秀总决赛 第二名🥈
   
 - **First Place in the 36th Edition Swimming Competition** (UESTC),  04/11/2017   
   电子科技大学 - 第三十六届游泳大赛男子50米蛙泳 第一名🥇
