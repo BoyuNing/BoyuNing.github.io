@@ -4,10 +4,10 @@
   <!-- 左侧：两张图片水平排列 -->
   <div style="flex: 1; display: flex; gap: 10px;">
     <div style="flex: 1;">
-      <img src="images/new415.png" alt="News 1" style="width: 100%; height: auto; max-height: 200px;">
+      <img src="images/new415.png" alt="News 1" style="width: 50%; height: auto; max-height: 200px;">
     </div>
     <div style="flex: 1;">
-      <img src="images/news.png" alt="News 2" style="width: 100%; height: auto; max-height: 200px;">
+      <img src="images/news.png" alt="News 2" style="width: 50%; height: auto; max-height: 200px;">
     </div>
   </div>
   
