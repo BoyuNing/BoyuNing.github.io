@@ -68,18 +68,18 @@
   新尚集团 - 唐立新奖学金 (企业奖学金最高荣誉，全校Top 0.3%)💰 
 
 
-  # 🏆 Talent Awards
+# 🏆 Talent Awards
 
-  - **First Place in the 4th Huawei Talent Show** (Huawei Research Institute), 19/11/2024  
+- **First Place in the 4th Huawei Talent Show** (Huawei Research Institute), 19/11/2024  
   华为研究所 - 第四届华为达人秀总决赛 第一名🥇
 
- - **First Place in the 9th Edition Hiphop Night Battle** (National University of Singapore), 15/04/2022  
+- **First Place in the 9th Edition Hiphop Night Battle** (National University of Singapore), 15/04/2022  
   新加坡国立大学 - 第九届Hiphop Night街舞大赛 第一名🥇
 
-  - **First Place in the 9th Edition Talent Show** (UESTC), 18/12/2018  
+- **First Place in the 9th Edition Talent Show** (UESTC), 18/12/2018  
   电子科技大学 - 第九届科大达人秀总决赛 第一名🥇
 
-  - **Second Place in the 7th Edition Talent Show** (UESTC), 18/12/2018  
+- **Second Place in the 7th Edition Talent Show** (UESTC), 18/12/2018  
   电子科技大学 - 第七届科大达人秀总决赛 第二名🥈
   
 - **First Place in the 36th Edition Swimming Competition** (UESTC),  04/11/2017   
