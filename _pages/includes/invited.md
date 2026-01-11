@@ -1,5 +1,7 @@
 # 🗓️ Invited Events
 
+- *2025.12.08*, **IEEE Global Communications Conference (GLOBECOM)** Workshop-IRAFWCC **General Chair**
+- *2025.10.20*, **IEEE Vehicular Technology Conference (VTC-Fall)** Industry Panel **Moderator**
 - *2025.08.10*, **IEEE International Conference on Communications in China (ICCC)** Workshop-6DMA-RAWCS **General Chair**
 - *2025.08.10*, **IEEE International Conference on Communications in China (ICCC)** Workshop-CKM-EACS **TPC Co-Chair**
 - *2025.06.08*, **IEEE International Conference on Communications (ICC)** Workshop-IMRAFWCS **General Chair**
