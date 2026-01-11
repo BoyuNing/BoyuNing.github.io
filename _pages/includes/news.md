@@ -12,8 +12,7 @@
   </div>
 </div>
 
-<div class='paper-box-text' markdown="1">
-- *2025.09.30*: World's Top 2% Scientist 2025 (Stanford University & Elsevier)
+<div class='paper-box-text' markdown="1"
 - *2025.04.11*: I made a B-Box show in Huawei IRB Ceremony🎉 
 - *2025.01.19*: I am a Special Guest for Popping Competition🎉 
 </div>
