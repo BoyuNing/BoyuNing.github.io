@@ -23,7 +23,10 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Boyu Ning (宁博宇)"
   avatar           : "images/profile.png"
-  bio              : "Kungliga Tekniska högskolan <img src='./images/KTH.png' style='width: 1.4em;'>"
+ bio : "Kungliga Tekniska högskolan
+<div style='text-align: center;'>
+  <img src='./images/KTH.png' style='width: 3em;'>
+</div>"
   location         : "Stockholm, Sweden"
   employer         :
   pubmed           : 
